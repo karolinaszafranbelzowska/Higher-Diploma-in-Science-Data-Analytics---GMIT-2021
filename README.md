@@ -1,4 +1,4 @@
-# Higher Diploma in Science Data Analytics GMIT 2021
+# Higher Diploma in Science, Data Analytics, GMIT 2021
 
 A conversion course for graduates of level 8 programmes in disciplines other than computing, the aim of this programme is to provide students with a broad knowledge of computing, 
 with a specialisation in data analytics. 
