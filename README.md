@@ -1,5 +1,5 @@
 ![](images/logo_GMIT.jpeg)
-
+![](images/logo_GMIT.jpeg)
 
 ## Higher Diploma in Data Analytics
 ### Karolina Szafran-Belzowska, G00376368
