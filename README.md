@@ -1,4 +1,3 @@
-![](images/logo_GMIT.png)
 ![](images/logo_GMIT.jpeg)
 
 ## Higher Diploma in Data Analytics
