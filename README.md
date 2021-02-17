@@ -1,4 +1,3 @@
-![](images/logo_GMIT.png)
 ![](images/logo_GMIT.jpeg)
 
 ## Higher Diploma in Data Analytics
@@ -17,17 +16,17 @@ Level 8 graduates from disciplines such as business and finance are particularly
 ### Modules
 ________________________________________
 
-- Programming and Scripting	(10 credits)
-- Computational Thinking with Algorithms	(5 credits)
-- Computer Architecture and Technology Convergence	(5 credits)
-- Data Representation	(5 credits)
-- Fundamentals of Data Analysis	(5 credits)
-- Programming for Data Analysis	(10 credits)
-- Applied Databases	(5 cedits)
-- Web Application Development	(5 credits)
-- Machine Learning and Statistics	(5 credits)
-- Multi-paradigm programming	(5 credits)
-- Work Placement or Project	(15 credits)
+1. Programming and Scripting	(10 credits)
+2. Computational Thinking with Algorithms	(5 credits)
+3. Computer Architecture and Technology Convergence	(5 credits)
+4. Data Representation	(5 credits)
+5. Fundamentals of Data Analysis	(5 credits)
+6. Programming for Data Analysis	(10 credits)
+7. Applied Databases	(5 cedits)
+8. Web Application Development	(5 credits)
+9. Machine Learning and Statistics	(5 credits)
+10. Multi-paradigm programming	(5 credits)
+11. Work Placement or Project	(15 credits)
 
 
 ### Learning outcomes
@@ -46,3 +45,8 @@ The learner will be able to:
 5.	Work autonomously in solving problems using a computer; Plan and track the development of software by a group of people; Recognise the different roles involved in organising a project in data analysis.
 6.	Locate and evaluate documentation and information through online research; Assimilate new skills and techniques in computing through online learning; Criticise computational work in a constructive manner.
 7.	Critique the ways in which data analysis affects the world; Summarise how academic and industrial research leads to new knowledge, solutions and techniques in data analysis; Recommend an appropriate course of action based on results from data analysis.
+
+ 
+### 1. Programming and Scripting
+________________________________________
+
