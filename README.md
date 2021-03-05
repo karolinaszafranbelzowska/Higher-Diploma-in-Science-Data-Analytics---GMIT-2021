@@ -96,6 +96,7 @@ data. It covered the high-level concepts and the theory.
 5. Install Cmder in Windows to allow you run the code used in this repository. https://cmder.net/
 6. Open a command winder and use ipython.
 
+
 ### 2. Computational Thinking with Algorithms
 ________________________________________
 
