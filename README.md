@@ -49,4 +49,34 @@ The learner will be able to:
  
 ### 1. Programming and Scripting
 ________________________________________
+This module is an introduction to automating computer tasks using scripting languages and solving problems using programming languages, with a focus on
+data.
+
+### Indicative Syllabus
+
+#### Scripting
+Command Line Interfaces
+Read, Evaluate, Print, Loop environments
+Command line arguments
+Scripts to automate tasks
+Environment variables
+Input/Output redirection
+Background and foreground jobs
+#### Development environments and toolchains
+Compilers and interpreters
+Programming text editors
+Integrated development environments
+Distributed version control software
+##### Programming
+Reading documentation
+Statements
+Comments
+Constants and variables
+Conditionals
+Loops
+Functions
+COMP08049
+Programming and Scripting
+Page 1 of 2
+File Input/Output
 
