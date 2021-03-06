@@ -52,35 +52,14 @@ ________________________________________
 This module is an introduction to automating computer tasks using scripting languages and solving problems using programming languages, with a focus on
 data. It covered the high-level concepts and the theory.
 
-#### Indicative Syllabus
+#### Learning Outcomes
 
-#### Scripting
-
-- Command Line Interfaces
-- Read, Evaluate, Print, Loop environments
-- Command line arguments
-- Scripts to automate tasks
-- Environment variables
-- Input/Output redirection
-- Background and foreground jobs
-
-#### Development environments and toolchains
-
-- Compilers and interpreters
-- Programming text editors
-- Integrated development environments
-- Distributed version control software
-
-#### Programming
-
-- Reading documentation
-- Statements
-- Comments
-- Constants and variables
-- Conditionals
-- Loops
-- Functions
-- File Input/Output
+1. Automate computer tasks using a scripting language.
+2. Write configuration files for a variety of software applications.
+3. Setup and configure a software development environment and toolchain.
+4. Develop an algorithm to solve a computational problem.
+5. Write a computer program in a high-level programming language.
+6. Construct a complex computer program from a series of simpler computer programs
 
 #### How download this repository
 
@@ -92,9 +71,9 @@ data. It covered the high-level concepts and the theory.
 1. Make sure you have Python installed. https://www.python.org/downloads/
 2. Download Python using Anaconda and use iPython. https://www.anaconda.com/distribution/
 3. Anaconda allows you to use software such as Visual Studio Code. https://code.visualstudio.com/download
-4. Download Vivual Studio Code, this will assist you in saving annd editing your code.
-5. Install Cmder in Windows to allow you run the code used in this repository. https://cmder.net/
-6. Open a command winder and use ipython.
+5. Download Vivual Studio Code, this will assist you in saving annd editing your code.
+6. Install Cmder in Windows to allow you run the code used in this repository. https://cmder.net/
+7. Open a command winder and use ipython.
 
 
 ### 2. Computational Thinking with Algorithms
