@@ -82,7 +82,7 @@ data. It covered the high-level concepts and the theory.
 - Functions
 - File Input/Output
 
-#### How download this respoitory
+#### How download this repository
 
 1. Go to Github and select Programming and Sripting - Jupyter notebook or Programming and Scripting - VSC.
 2. Click the download button.
@@ -100,4 +100,37 @@ data. It covered the high-level concepts and the theory.
 ### 2. Computational Thinking with Algorithms
 ________________________________________
 
-This repository contains the Project 2020 for Module 'Computational Thinking with Algorithms' at GMIT. 
+This repository contains the benchmarking code for five different sorting algorithms as part of the assessment in the Computational Thinking with Algorithms module for the Higher Diploma in Data Analytics with Galway-Mayo Institute of Technology.
+
+The module covers a comprehensive foundation in computational problem solving and algorithm design. 
+
+### Learning Outcomes
+1. Apply structured methodologies to problem solving in computing.
+2. Design algorithms to solve computational problems.
+3. Critically evaluate and assess the performance of algorithms.
+4. Translate real-world problems into computational problems
+
+### Project Description
+This project implements functions for and benchmarks five sorting algorithms:
+
+- Bubble Sort,
+- Counting Sort,
+- Insertion Sort,
+- Merge Sort,
+- Selection Sort
+
+The benchmarking process begins with the creation of arrays of random integer arrays of increasing size, each of which are passed to all of the sorting functions. The sorting functions are timed with each array ten times to get an average time for each input size and the results are collated in a dataframe. 
+
+It should be noted that due to the nature of the simple sorting algorithms, the code herein may take quite some time to run as they attempt to sort the larger input sizes.
+
+#### How to run 'Jupyter notebook'
+The Jupyter Notebook App can be launched by clicking on the Jupyter Notebook icon installed by Anaconda in the start menu (Windows) or by typing in a terminal (cmd on Windows):
+'jupyter notebook'
+
+This will launch a new browser window (or a new tab) showing the Notebook Dashboard, a sort of control panel that allows (among other things) to select which notebook to open. Taken from: Jupyter notebook
+
+The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more.
+
+
+### 3. Computer Architecture and Technology Convergence
+________________________________________
