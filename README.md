@@ -49,4 +49,55 @@ The learner will be able to:
  
 ### 1. Programming and Scripting
 ________________________________________
+This module is an introduction to automating computer tasks using scripting languages and solving problems using programming languages, with a focus on
+data. It covered the high-level concepts and the theory.
 
+#### Indicative Syllabus
+
+#### Scripting
+
+- Command Line Interfaces
+- Read, Evaluate, Print, Loop environments
+- Command line arguments
+- Scripts to automate tasks
+- Environment variables
+- Input/Output redirection
+- Background and foreground jobs
+
+#### Development environments and toolchains
+
+- Compilers and interpreters
+- Programming text editors
+- Integrated development environments
+- Distributed version control software
+
+#### Programming
+
+- Reading documentation
+- Statements
+- Comments
+- Constants and variables
+- Conditionals
+- Loops
+- Functions
+- File Input/Output
+
+#### How download this respoitory
+
+1. Go to Github and select Programming and Sripting - Jupyter notebook or Programming and Scripting - VSC.
+2. Click the download button.
+
+#### How to run the code
+
+1. Make sure you have Python installed. https://www.python.org/downloads/
+2. Download Python using Anaconda and use iPython. https://www.anaconda.com/distribution/
+3. Anaconda allows you to use software such as Visual Studio Code. https://code.visualstudio.com/download
+4. Download Vivual Studio Code, this will assist you in saving annd editing your code.
+5. Install Cmder in Windows to allow you run the code used in this repository. https://cmder.net/
+6. Open a command winder and use ipython.
+
+
+### 2. Computational Thinking with Algorithms
+________________________________________
+
+This repository contains the Project 2020 for Module 'Computational Thinking with Algorithms' at GMIT. 
