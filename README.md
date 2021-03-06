@@ -100,3 +100,4 @@ data. It covered the high-level concepts and the theory.
 ### 2. Computational Thinking with Algorithms
 ________________________________________
 
+This repository contains the Project 2020 for Module 'Computational Thinking with Algorithms' at GMIT. 
