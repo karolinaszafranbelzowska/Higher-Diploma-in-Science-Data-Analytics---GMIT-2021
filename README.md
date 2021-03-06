@@ -134,3 +134,20 @@ The Jupyter Notebook is an open-source web application that allows you to create
 
 ### 3. Computer Architecture and Technology Convergence
 ________________________________________
+
+This repository contains the assessment in the Computer Architecture and Technology Convergence module for the Higher Diploma in Data Analytics with Galway-Mayo Institute of Technology.
+
+The module introduces you to the inner workings, structure, architecture and organization of modern computer architectures.
+
+The project is written using a standard word processor and .pdf format.
+
+#### Learning Outcomes
+
+1. Demonstrate an understanding of the components in modern computer architectures.
+2. Troubleshoot common computer hardware and software problems.
+3. Describe the topologies of computer networks.
+4. Explain the role of abstraction in the development of computer hardware and software.
+
+
+### 4. Data Representation
+________________________________________
