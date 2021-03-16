@@ -133,7 +133,7 @@ ________________________________________
 
 This repository contains the assignment of the Data Representation module for the Higher Diploma in Data Analytics with Galway-Mayo Institute of Technology.
 
-### The repository contains:
+#### The repository contains:
 - README.md file
 - .gitignore
 - requirements.txt - stores required packages
@@ -144,13 +144,13 @@ This repository contains the assignment of the Data Representation module for th
 - employee.html page
 - employee.png
 
-### AJAX
+#### AJAX
 A technique of creating web applications in which user interaction with the server takes place without reloading the entire document, in an asynchronous manner. This is to allow more dynamic interaction with the user than in the traditional model where every word applies to all HTML pages[2].
 
-### DAO
+#### DAO
 DAO stands for Data Access Object. The EmployeeDAO.py file consists of a number of functions which access the database and perform CRUD operations. It is a pattern that provides an abstract interface to some type of database or other persistence mechanism. The DAO provides some specific data operations without exposing details of the database.
 
-### How to run
+#### How to run
 At the command prompt: For those who do not have 'flask' and 'mysql-connector' installed:
 ```
 pip install flask
@@ -158,7 +158,7 @@ pip install mysql-connector
 ```
 In the command prompt type command: python server.py. to make the server running (at http://127.0.0.1:5000). In the browser address bar: http://127.0.0.1:5000/employee.html - starts the web interface that uses AJAX to perform database.
 
-### MySQL database & table
+#### MySQL database & table
 Database = dr_project Table = employee
 
 MySQL command to create employee table:
@@ -170,3 +170,20 @@ create table employee (
     employee_Salary int
 );
 ```
+
+### 5. Fundamentals of Data Analysis
+
+
+
+
+
+
+### How to clone any repository
+1. Go to GitHub.
+2. Go to my repository: https://github.com/karolinaszafranbelzowska/Higher-Diploma-in-Science-Data-Analytics---GMIT-2021
+3. Click the Code button which is colored green.
+4. Click on HTTPS and copy the link that is shown.
+5. Open the command line on your machine, navigate to the directory where you would like to clone the repository down to.
+6. Enter the command: git clone followed by the URL of the repository.
+7. The repository will be cloned down to your current working directory.
+8. You will need to navigate to this folder location on the command line in order to run the program.
