@@ -132,6 +132,14 @@ The project is written using a standard word processor and .pdf format.
 ________________________________________
 
 This repository contains the assignment of the Data Representation module for the Higher Diploma in Data Analytics with Galway-Mayo Institute of Technology.
+This module in which I was investigating and operating the protocols, standards and architectures used in representing data, with a focus on
+interacting with data services across the Internet. I also gained practical experience in developing applications that interact with such data.
+
+#### Learning Outcomes
+1. Compare data models and architectures used in applications.
+2. Write software applications that adhere to common standards and protocols.
+3. Explain the basic mechanisms by which application data is transmitted across the internet.
+4. Design and utilise application programming interfaces for interacting with data sources.
 
 #### The repository contains:
 - README.md file
