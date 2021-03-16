@@ -29,7 +29,7 @@ ________________________________________
 11. Work Placement or Project	(15 credits)
 
 
-### Learning outcomes
+### Learning outcomes:
 ________________________________________
 The learner will have knowledge and understanding of advanced concepts in the following areas.
 1.	Data analysis: collecting, cleaning, processing, exploring and modelling.
@@ -52,35 +52,14 @@ ________________________________________
 This module is an introduction to automating computer tasks using scripting languages and solving problems using programming languages, with a focus on
 data. It covered the high-level concepts and the theory.
 
-#### Indicative Syllabus
+#### Learning Outcomes
 
-#### Scripting
-
-- Command Line Interfaces
-- Read, Evaluate, Print, Loop environments
-- Command line arguments
-- Scripts to automate tasks
-- Environment variables
-- Input/Output redirection
-- Background and foreground jobs
-
-#### Development environments and toolchains
-
-- Compilers and interpreters
-- Programming text editors
-- Integrated development environments
-- Distributed version control software
-
-#### Programming
-
-- Reading documentation
-- Statements
-- Comments
-- Constants and variables
-- Conditionals
-- Loops
-- Functions
-- File Input/Output
+1. Automate computer tasks using a scripting language.
+2. Write configuration files for a variety of software applications.
+3. Setup and configure a software development environment and toolchain.
+4. Develop an algorithm to solve a computational problem.
+5. Write a computer program in a high-level programming language.
+6. Construct a complex computer program from a series of simpler computer programs
 
 #### How download this repository
 
@@ -92,9 +71,9 @@ data. It covered the high-level concepts and the theory.
 1. Make sure you have Python installed. https://www.python.org/downloads/
 2. Download Python using Anaconda and use iPython. https://www.anaconda.com/distribution/
 3. Anaconda allows you to use software such as Visual Studio Code. https://code.visualstudio.com/download
-4. Download Vivual Studio Code, this will assist you in saving annd editing your code.
-5. Install Cmder in Windows to allow you run the code used in this repository. https://cmder.net/
-6. Open a command winder and use ipython.
+5. Download Vivual Studio Code, this will assist you in saving annd editing your code.
+6. Install Cmder in Windows to allow you run the code used in this repository. https://cmder.net/
+7. Open a command winder and use ipython.
 
 
 ### 2. Computational Thinking with Algorithms
@@ -134,3 +113,85 @@ The Jupyter Notebook is an open-source web application that allows you to create
 
 ### 3. Computer Architecture and Technology Convergence
 ________________________________________
+
+This repository contains the assessment in the Computer Architecture and Technology Convergence module for the Higher Diploma in Data Analytics with Galway-Mayo Institute of Technology.
+
+The module introduces you to the inner workings, structure, architecture and organization of modern computer architectures.
+
+The project is written using a standard word processor and .pdf format.
+
+#### Learning Outcomes
+
+1. Demonstrate an understanding of the components in modern computer architectures.
+2. Troubleshoot common computer hardware and software problems.
+3. Describe the topologies of computer networks.
+4. Explain the role of abstraction in the development of computer hardware and software.
+
+
+### 4. Data Representation
+________________________________________
+
+This repository contains the assignment of the Data Representation module for the Higher Diploma in Data Analytics with Galway-Mayo Institute of Technology.
+This module in which I was investigating and operating the protocols, standards and architectures used in representing data, with a focus on
+interacting with data services across the Internet. I also gained practical experience in developing applications that interact with such data.
+
+#### Learning Outcomes: (https://www.gmit.ie/sites/default/files/public/computing/docs/data-representation.pdf)
+1. Compare data models and architectures used in applications.
+2. Write software applications that adhere to common standards and protocols.
+3. Explain the basic mechanisms by which application data is transmitted across the internet.
+4. Design and utilise application programming interfaces for interacting with data sources.
+
+#### The repository contains:
+- README.md file
+- .gitignore
+- requirements.txt - stores required packages
+- mySQL database
+- Python 'DAO' programme to access the mySQL database, this programme consumes an API. (EmployeeDAO.py, testEmployeeDAO.py- it was used to test the DAO.)
+- Python 'application' to run a Flask server (server.py) in a virtual enviroment
+- createDBproject.py - code to create the database ('dr_project')
+- employee.html page
+- employee.png
+
+#### AJAX
+A technique of creating web applications in which user interaction with the server takes place without reloading the entire document, in an asynchronous manner. This is to allow more dynamic interaction with the user than in the traditional model where every word applies to all HTML pages.
+
+#### DAO
+DAO stands for Data Access Object. The EmployeeDAO.py file consists of a number of functions which access the database and perform CRUD operations. It is a pattern that provides an abstract interface to some type of database or other persistence mechanism. The DAO provides some specific data operations without exposing details of the database.
+
+#### How to run
+At the command prompt: For those who do not have 'flask' and 'mysql-connector' installed:
+```
+pip install flask
+pip install mysql-connector
+```
+In the command prompt type command: python server.py. to make the server running (at http://127.0.0.1:5000). In the browser address bar: http://127.0.0.1:5000/employee.html - starts the web interface that uses AJAX to perform database.
+
+#### MySQL database & table
+Database = dr_project Table = employee
+
+MySQL command to create employee table:
+```
+create table employee (
+    employee_ID int NOT NULL PRIMARY KEY,
+    employee_Name varchar(100),
+    employee_Dept_ID int,
+    employee_Salary int
+);
+```
+
+### 5. Fundamentals of Data Analysis
+
+
+
+
+
+
+### How to clone any repository
+1. Go to GitHub.
+2. Go to my repository: https://github.com/karolinaszafranbelzowska/Higher-Diploma-in-Science-Data-Analytics---GMIT-2021
+3. Click the Code button which is colored green.
+4. Click on HTTPS and copy the link that is shown.
+5. Open the command line on your machine, navigate to the directory where you would like to clone the repository down to.
+6. Enter the command: git clone followed by the URL of the repository.
+7. The repository will be cloned down to your current working directory.
+8. You will need to navigate to this folder location on the command line in order to run the program.
