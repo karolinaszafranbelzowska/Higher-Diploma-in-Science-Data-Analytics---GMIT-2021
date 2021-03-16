@@ -29,7 +29,7 @@ ________________________________________
 11. Work Placement or Project	(15 credits)
 
 
-### Learning outcomes
+### Learning outcomes:
 ________________________________________
 The learner will have knowledge and understanding of advanced concepts in the following areas.
 1.	Data analysis: collecting, cleaning, processing, exploring and modelling.
@@ -135,7 +135,7 @@ This repository contains the assignment of the Data Representation module for th
 This module in which I was investigating and operating the protocols, standards and architectures used in representing data, with a focus on
 interacting with data services across the Internet. I also gained practical experience in developing applications that interact with such data.
 
-#### Learning Outcomes
+#### Learning Outcomes: (https://www.gmit.ie/sites/default/files/public/computing/docs/data-representation.pdf)
 1. Compare data models and architectures used in applications.
 2. Write software applications that adhere to common standards and protocols.
 3. Explain the basic mechanisms by which application data is transmitted across the internet.
