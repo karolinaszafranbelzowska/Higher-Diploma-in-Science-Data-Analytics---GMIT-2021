@@ -253,8 +253,9 @@ unstructured data will be covered for a number of modern database systems and ar
 3. Select an appropriate interface to access a database for a given application.
 4. Determine the best balance between application and database logic for a given data analysis process.
 
-
-
+### 8. Web Application Development
+________________________________________
+![](images/web_application.jpeg)
 
 ### How to clone any repository
 1. Go to GitHub.
