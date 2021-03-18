@@ -1,0 +1,427 @@
+	<!-- Web Application Development - Project, GMIT 2020 -->
+	<!-- Karolina Szafran-Belzowska, G00376368@gmit.ie -->
+	<!-- Lecturer: dr. Michael Duignan -->
+	
+<!DOCTYPE html>
+ <!-- Document type declaration that identifies this document as the HTML document-->
+<html lang="en">
+<!-- The root element which contains all the elements in the document-->
+<head>
+	<meta charset="utf-8">
+	<!-- meta element specifies the character encoding used in this element-->
+	<meta name="viewport" content="width=device-width, intial-scale=1">
+	<!-- set the title of my HTML-->
+	<title>The Greenhouse Organics</title>
+	<!--Import d3-->
+	<script src="https://d3js.org/d3.v5.min.js"></script> 
+</head>
+	<style type = "text/css"> 
+	<!--The style attribute specifies an inline style for an element. The attribute is used with the HTML <body> tag, with the CSS property which describes how HTML elements are to be displayed on screen-->
+	<!-- I used class selectors (".") and  ID selectors ("#"). The difference between an ID and a class is that an ID can be used to identify one element, whereas a class can be used to identify more than one.-->
+	
+	<!-- The font-size defines the size of the font and it is relative to the parent element's font size -->
+	<!-- The font-family specifies the font for an element, -->
+	<!-- The background-color property sets the background color of elements in my HTML -->
+	<!-- The padding is the space between its content and its border.-->
+	<!-- The text-align property specifies the horizontal alignment of text in an element.-->
+	<!-- The overflow property specifies what should happen if content overflows an element's box -->
+	<!-- The margin property sets the margins for an element, and is a shorthand property for the following properties: top, right. bottom and left.-->
+	<!-- The border property is a shorthand property for: width, style and color. -->
+	
+	<!-- #SignIn - this ID selector defines the body -->
+	<!-- #d1 - this ID defines the header and its font family -->
+	<!-- #photo and #photo1 define the place of photos-->
+	<!-- # info, #info2 and #info3 these 3 ID selectors define small headers -->
+	<!-- classes .d2 and .d3 define positions of <a> html linked pages and photos -->
+	<!-- classes .d4 and .d5 define details to SignIn -->
+	<!-- classes .side and .main - create two unequal columns that sits next to each other. First is Left column and second is right -->
+	<!-- .button - this class defines the default styling for the buttons in Vegetables.html and Fruits.html -->
+	<!-- .button1 - this class defines the default styling for the buttons in Sales.html and Shopping.html -->
+	<!-- .footer class defines the styling of the footer -->
+	<!-- #ChartColor - thid ID selector defines the color picker in Sales.html and Shopping.html-->
+	<!-- #ChartSize - thid ID selector defines the height box in Sales.html and Shopping.html-->
+	
+	body{ 
+		background-color:LightGreen;
+		}
+	#SignIn{
+		background-color:LimeGreen;
+		font-family:Tahoma, Segoe UI, Verdana, Helvetica, Sans-Serif;
+		height:111px;
+		font-size:75%;
+		}
+	.d1{
+	   background-color:LightGreen;
+	   font-family:Georgia, Times, serif;
+	   color: black;
+	   text-align: center;
+	   padding: 60px;
+	   margin:auto;
+	   }
+	#photo{
+		float:left;
+         }
+	#photo1{
+		float:right;
+         }
+	#info{
+        font-family: Georgia, Times, serif;
+		font-size:30px;
+		color: black;
+         }
+	#info2{
+        font-family: Georgia, Times, serif;
+		font-size:30px;
+		color: black;
+         }
+	#info3{
+        font-family: Georgia, Times, serif;
+		font-size:20px;
+		color: black;
+		float: center;
+        }
+	.d2{
+        padding: 40px;
+        text-align: center;
+        background:PaleGreen;
+        }
+	.d3{
+		overflow: hidden;
+		float:left;
+		}
+	.d3 a{
+		float:left;
+		display:block;
+		padding:20px 30px;
+		color:black;
+		text-decoration:none;
+		}
+	.d3 a.right{
+		float:right;
+		}
+	.d4{
+		margin-top:30px;
+		width:300px;
+		padding:50px;
+		border:2px solid, #CCCCCC;
+		border-top-color:rgb(46, 112, 11);
+		border-top-style:solid;
+		border-top-width:2px;
+		
+		border-right-color:rgb(46, 112, 11);
+		border-right-style:solid;
+		border-right-width:2px;
+		
+		border-bottom-color:rgb(46, 112, 11);
+		border-bottom-style:solid;
+		border-bottom-width:2px;
+		
+		border-left-color:rgb(46, 112, 11);
+		border-left-style:solid;
+		border-left-width:2px;
+		
+		margin-right: 0px;
+		margin-bottom: 0px;
+		margin-left: 0px;
+		
+		display: block;
+		margin-inline-start: 2px;
+		margin-inline-end: 2px;
+		min-inline-size: min-content
+		font-size: 96%;
+		}
+	.container{
+		height:auto;
+		min-height:20em;
+		display:block;
+		text-align:left;
+		font-size:90%;
+	}
+	.fieldset label{
+		display:block;
+		float:left;
+		clear:left;
+		width:11em;
+		padding:0.5em;
+			padding-top:0px;
+			padding-right:0.5em;
+			padding-bottom:0px;
+			padding-left:0.5em;
+			font-weight:bold;
+	}
+	.ip{
+		1px solid #777;
+		border-top-color:rgb(119,119,119);
+		border-top-style:solid;
+		border-top-width:1px;
+		
+		border-right-color:rgb(119,119,119);
+		border-right-style:solid;
+		border-right-width:1px;
+		
+		border-bottom-color:rgb(119,119,119);
+		border-bottom-style:solid;
+		border-bottom-width:1px;
+		
+		border-left-color:rgb(119,119,119);
+		border-left-style:solid;
+		border-left-width:1px;
+		
+		width:12em;
+	}
+	.d5{
+		dispaly:block;
+		font-size:35px;
+		width:auto;
+		float:none;
+		}
+	.login-details{
+		text-align:center;
+		}
+	#login{
+		width:50em;
+		height:32em;
+		padding:50px;
+		margin: 0 auto;
+		margin-top: 0px;
+		margin-right: auto;
+		margin-bottom: 0px;
+		margin-left: auto;
+		text-align:left;
+		}
+	#sibutton{
+		margin-top:0.75em;
+		margin-right:0px;
+		margin-bottom:0.75em;
+		mergin-left:0px;
+		tex:left;
+		padding:0;
+		font-size:1em;
+		}
+	.fargotten{
+		padding-left:8px;
+		mrgin-left:5px;
+		}
+	#gsSignin{
+		float:left;	
+		}
+	#button {
+		background-color: LimeGreen;
+		border: none;
+		color: white;
+		width:150px;
+		height:60px;
+		margin:2px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+		font-size: 16px;
+		align-self: center;
+		}
+	#button1 {
+		background-color: PaleGreen;
+		border: none;
+		color: black;
+		width:150px;
+		height:60px;
+		margin:2px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+		font-size: 20px;
+		align-self: center;
+		}
+	.footer{
+		padding: 40px;
+		text-align: center;
+		background:PaleGreen;
+		color: black;
+		margin:0;
+		}
+	#ChartSize{
+		background-color: LightGreen;
+		color:black;
+		font-size: 16px;
+		width:150px;
+		height:60px;
+		text-align: center;
+		}
+	#ChartColor{
+		width: 150px;
+		height:60px;
+		}
+	</style>
+
+
+	<body id="SignIn"> <!-- <body> tag defines the main content of the HTML document -->
+		<h1 class="d1">The Greenhouse Organics</h1>
+		<!-- div will define a header and it will be styled with CSS -->
+		<div class="d2">
+			<img id="photo" src="https://raw.githubusercontent.com/karolinaszafranbelzowska/Web_Application-Development/master/vegetables-png.png", width="500px", height="300px">
+			<img id="photo1" src="https://raw.githubusercontent.com/karolinaszafranbelzowska/Web_Application-Development/master/fruits-png.png", width="400px", height="300px">
+			<p id="info">We are here for you.</p>
+			<p id="info2"> We want the best for you and your family.</p>
+			<p id="info3"> You won't pay more for poducts that matter most to you.</p>
+		</div>
+	
+	<div class="d3">
+	<!-- The href attribute specifies the URL of the page the link goes to.-->
+		<a href="Vegetables.html">Vegetable Boxes</a>
+		<a href="Fruits.html">Fruit Boxes</a>
+		<a href="AboutUs.html">About Us</a>
+		<a href="Shopping.html">Shopping in 2019</a>
+		<a href="Sales.html">Sales</a>
+		<a href="ContactUs.html">Contact Us</a>
+		<a href="SignIn.html" class="right">SignIn</a>
+    </div> 
+  
+    <div style="background-color: LightGreen; margin: 100px;padding:30px; font-size:20px"> 
+	</div>
+	
+		<p id="main_page">
+			<!--Divide the main body into a side panel and a main panel-->
+			<div class="row">
+				<div class="side">
+					
+					<h3 style="align-self:centre">Average vegetable consumptions for a family of four in 2019</h3><br>
+					<button id="button1" onclick="chart()">2019</button><br>
+					<h3>Select Chart Size</h3>
+					<select id="ChartSize">
+						<option value="400">400px</option>
+						<option value="500">500px</option>
+						<option value="600">600px</option>
+					</select><br>
+					
+					<h3> Select Chart Color</h3>
+					<input type="color" id="ChartColor"><br>
+				</div>
+
+				<div class="main">
+				<!--Add a product card to display a product, the content of this is variable using the DOM-->
+					<h2 style="padding:40;text-align:middle">View a graph of Average Vegetable Consumptions in 2019</h2><br>
+					
+					<div id="svgAverage"></div>
+	 
+				</div>
+			</div>
+		</p> 
+		
+		<div class="footer">
+		</div>
+		
+	</body>
+
+<script>
+function chart(){
+	<!-- Values for Bar Charts -->
+	var height = document.getElementById("ChartSize").value; <!-- height can be picked by the user -->
+	var width = 400;
+	var xchart = 150;
+	var ychart = 60;
+	var barWidth = 110;
+	var chartColour = document.getElementById("ChartColor").value; <!-- color can be picked by the user -->
+	
+	<!-- Scales Data -->
+	var avg_consumption = [15.500,20.800,12.000,14.000];
+	var month =["spring","summer","autumn","winter"];
+	
+	<!-- Create a Scale for Y -->
+	var yScale = d3.scaleLinear()
+		.domain([0,d3.max(avg_consumption)])
+		.range([height,0]);
+		
+	<!-- Create a Scale for X -->
+	var xScale = d3.scaleBand()
+		.domain(month.map(function(d){
+			return d;
+		}))  
+    .range([0,width]);
+	
+	<!--Create a X-Axis -->
+	var xAxis = d3.axisBottom()
+		.scale(xScale);
+	
+	<!-- Creat an Y-Axis -->
+	var yAxis = d3.axisRight()
+		.scale(yScale);
+		
+		
+	d3.select("#svgAverage").selectAll("*").remove();
+	
+	<!-- Create an SVG Container -->
+	var svgContainer = d3.select("#svgAverage").append("svg")
+		.attr("height",(500))
+		.attr("width",800);
+	
+	<!-- Generate Rectangle for Bar Chart -->
+	var myRectangle = svgContainer.selectAll("rect")
+		.data(avg_consumption);
+		
+	<!-- Add attributes to rectangle -->
+	myRectangle.enter()
+		.append("rect")
+			.attr("x", function(d,i){return xchart + (i*90);})
+			.attr("y", height)
+			.attr("width", barWidth)
+			.attr("fill", "yellow")
+			.transition()
+			.duration(3000)
+			
+			.attr("x", function(d,i){return xchart + (i*90);})
+			.attr("y",function(d){return yScale(d);})
+			.attr("height",function(d){return height - yScale(d);} )
+			.attr("width", barWidth)
+			.attr("fill", chartColour);
+	
+	<!-- Add Label text for Bar Charts -->
+	let myLabels = svgContainer.selectAll("text")
+		.data(avg_consumption);
+	
+	<!-- Start of Label transition -->
+	myLabels.enter()
+		.append("text")
+		<!-- Start of First Label transition -->
+			.attr("x", function(d,i){return xchart + (barWidth/2) + (i*90);})
+			.attr("y", height)
+			.attr("text-anchor", "middle")
+			.attr("font-size", "15px")
+			.attr("fill", "yellow")
+			.text(function(d){return d + "kg";})  
+			<!-- Transition settings -->
+			.transition()
+			.duration(3000)
+			.delay(3000)
+			.ease(d3.easeBounceOut)
+			
+		<!-- Start of Second Label transition -->
+			.attr("x", function(d,i){return xchart + (barWidth/2) + (i*90);})
+			.attr("y", function(d){return yScale(d) + ychart;})
+			.attr("text-anchor", "middle")
+			.attr("font-size", "15px")
+			.attr("fill", "white")
+			.text(function(d){return d + "kg"}); 
+			
+	svgContainer.append("g")  
+     
+      .attr("transform", "translate(" + (xOffset-10) + ",0)")
+      .call(yAxis);  
+     
+	svgContainer.append("g")
+		.attr("transform", "translate(" + xOffset + "," + height + ")")
+		.call(xAxis)
+		.selectAll("text")
+        .attr("transform", "rotate(60,15)")
+        .attr("text-anchor", "start")
+        .attr("x", "10")
+        .attr("y","3");   
+			
+}
+	
+	
+	
+	</script>
+</html>
+	
+
+
+  
