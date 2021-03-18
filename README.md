@@ -216,6 +216,27 @@ This will launch a new browser window (or a new tab) showing the Notebook Dashbo
 
 ![](images/data_science.jpeg)
 
+This module develops programming skills towards the effective use of data analysis libraries and software.
+I have learnt how to select efficient data structures for numerical programming, and to use these data structures to transform
+data into useful and actionable information.
+
+#### Learning Outcomes https://www.gmit.ie/sites/default/files/public/computing/docs/programming-data-analysis.pdf
+
+1. Perform exploratory analysis on data.
+2. Programmatically create plots and other visual outputs from data.
+3. Design computer algorithms to solve numerical problems.
+4. Create software that incorporates and utilises standard numerical libraries.
+5. Employ appropriate data structures when programming for data-intensive applications.
+6. Model real-world, data-intensive problems as computing problems.
+
+This assignment on numpy.random is the part of the Programming for Data Analysis 2019 module at Galway-Mayo Institute of Technology. It contains the numpy.random package in Python. In this assignment I tried to explain in details the use of the numpy.random package in Python using explanations and examples. I created a jupyter notebook and use this to show examples of numpy.random and its uses.
+
+#### There are 4 main sections in this assignment
+1. Explain the overall use of the numpy.random package.
+2. Explain the use of the "Simple random data" and Permutations" functions.
+3. Explain the use and purpose of at least five "Distributions" functions.
+4. Explain the use of seeds in generating pseudorandom numbers.
+
 
 
 ### How to clone any repository
