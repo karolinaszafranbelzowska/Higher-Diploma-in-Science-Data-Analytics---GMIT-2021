@@ -181,6 +181,7 @@ create table employee (
 
 ### 5. Fundamentals of Data Analysis
 
+![](images/tips.jpg)
 
 
 
