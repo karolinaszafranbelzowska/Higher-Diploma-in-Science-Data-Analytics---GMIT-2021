@@ -237,7 +237,7 @@ This assignment on numpy.random is the part of the Programming for Data Analysis
 3. Explain the use and purpose of at least five "Distributions" functions.
 4. Explain the use of seeds in generating pseudorandom numbers.
 
-
+### 7. Applied Database
 
 ### How to clone any repository
 1. Go to GitHub.
