@@ -242,6 +242,18 @@ This assignment on numpy.random is the part of the Programming for Data Analysis
 ### 7. Applied Database
 ________________________________________
 
+This module is a comprehensive primer on databases, with a focus on data analysis. The creation, retrieval, update and deletion of both structured and
+unstructured data will be covered for a number of modern database systems and architectures.
+
+### Learning Outcomes https://www.gmit.ie/sites/default/files/public/computing/docs/applied-databases.pdf
+1. Create, retrieve, update and delete data in a variety of modern database management systems.
+2. Determine the correct data to select from a database in order to perform a given data analysis.
+3. Select an appropriate interface to access a database for a given application.
+4. Determine the best balance between application and database logic for a given data analysis process.
+
+
+
+
 ### How to clone any repository
 1. Go to GitHub.
 2. Go to my repository: https://github.com/karolinaszafranbelzowska/Higher-Diploma-in-Science-Data-Analytics---GMIT-2021
