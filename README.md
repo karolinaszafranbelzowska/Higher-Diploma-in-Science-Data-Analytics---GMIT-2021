@@ -194,13 +194,13 @@ The module Fundamentals of Data Analysis is an introduction to the fundamentals 
 4. Write programs to automate basic data analysis techniques.
 
 #### Attribute information of the project:
-Total_bill in $,
-Tip in $,
-Sex of tipper: Female or Male,
-Smoker: Yes or No,
-Day: Thursday to Sunday,
-Meal: Lunch or Dinner,
-and size of the table.
+- Total_bill in $,
+- Tip in $,
+- Sex of tipper: Female or Male,
+- Smoker: Yes or No,
+- Day: Thursday to Sunday,
+- Meal: Lunch or Dinner,
+- and size of the table.
 
 #### How to run the project
 Make sure you have Python installed. The project is written in Jupyter notebook and it is called "Fundamentals of Data Analysis - tips dataset.ipynb", where the Data is summarized. The project also contains "tipsdata.csv" and "tips.jpg" (file with Photo of TIPS).
