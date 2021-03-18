@@ -180,6 +180,7 @@ create table employee (
 ```
 
 ### 5. Fundamentals of Data Analysis
+________________________________________
 
 ![](images/tips.jpg)
 
@@ -213,6 +214,7 @@ jupyter notebook
 This will launch a new browser window (or a new tab) showing the Notebook Dashboard, a sort of control panel that allows (among other things) to select which notebook to open. Taken from: Jupyter notebook.
 
 ### 6. Programming for Data Analysis
+________________________________________
 
 ![](images/data_science.jpeg)
 
@@ -236,6 +238,21 @@ This assignment on numpy.random is the part of the Programming for Data Analysis
 2. Explain the use of the "Simple random data" and Permutations" functions.
 3. Explain the use and purpose of at least five "Distributions" functions.
 4. Explain the use of seeds in generating pseudorandom numbers.
+
+### 7. Applied Database
+________________________________________
+
+![](images/big_data.jpeg)
+
+This module is a comprehensive primer on databases, with a focus on data analysis. The creation, retrieval, update and deletion of both structured and
+unstructured data will be covered for a number of modern database systems and architectures.
+
+### Learning Outcomes https://www.gmit.ie/sites/default/files/public/computing/docs/applied-databases.pdf
+1. Create, retrieve, update and delete data in a variety of modern database management systems.
+2. Determine the correct data to select from a database in order to perform a given data analysis.
+3. Select an appropriate interface to access a database for a given application.
+4. Determine the best balance between application and database logic for a given data analysis process.
+
 
 
 
