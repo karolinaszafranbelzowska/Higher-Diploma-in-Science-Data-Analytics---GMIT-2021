@@ -214,6 +214,8 @@ This will launch a new browser window (or a new tab) showing the Notebook Dashbo
 
 ### 6. Programming for Data Analysis
 
+![](images/data_science.jpeg)
+
 
 
 ### How to clone any repository
