@@ -180,6 +180,7 @@ create table employee (
 ```
 
 ### 5. Fundamentals of Data Analysis
+________________________________________
 
 ![](images/tips.jpg)
 
@@ -213,6 +214,7 @@ jupyter notebook
 This will launch a new browser window (or a new tab) showing the Notebook Dashboard, a sort of control panel that allows (among other things) to select which notebook to open. Taken from: Jupyter notebook.
 
 ### 6. Programming for Data Analysis
+________________________________________
 
 ![](images/data_science.jpeg)
 
@@ -238,6 +240,7 @@ This assignment on numpy.random is the part of the Programming for Data Analysis
 4. Explain the use of seeds in generating pseudorandom numbers.
 
 ### 7. Applied Database
+________________________________________
 
 ### How to clone any repository
 1. Go to GitHub.
