@@ -242,6 +242,8 @@ This assignment on numpy.random is the part of the Programming for Data Analysis
 ### 7. Applied Database
 ________________________________________
 
+![](images/big_data.jpeg)
+
 This module is a comprehensive primer on databases, with a focus on data analysis. The creation, retrieval, update and deletion of both structured and
 unstructured data will be covered for a number of modern database systems and architectures.
 
