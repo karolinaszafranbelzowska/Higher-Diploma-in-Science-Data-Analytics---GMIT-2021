@@ -183,7 +183,36 @@ create table employee (
 
 ![](images/tips.jpg)
 
+This repository contains my assessment for the module "Fundamentals of Data Analysis" at Galway-Mayo Institute of Technology. 
 
+The module Fundamentals of Data Analysis is an introduction to the fundamentals of data analysis, including the acquisition, cleaning and exploration of data sets.
+
+#### Learning Outcomes https://www.gmit.ie/sites/default/files/public/computing/docs/fundamentals-data-analysis.pdf
+1. Source and investigate sets of data.
+2. Programmatically explore and visualise data.
+3. Apply basic mathematical data analysis techniques to data sets.
+4. Write programs to automate basic data analysis techniques.
+
+#### Attribute information of the project:
+Total_bill in $,
+Tip in $,
+Sex of tipper: Female or Male,
+Smoker: Yes or No,
+Day: Thursday to Sunday,
+Meal: Lunch or Dinner,
+and size of the table.
+
+#### How to run the project
+Make sure you have Python installed. The project is written in Jupyter notebook and it is called "Fundamentals of Data Analysis - tips dataset.ipynb", where the Data is summarized. The project also contains "tipsdata.csv" and "tips.jpg" (file with Photo of TIPS).
+
+#### How to run the Jupyter notebook
+The Jupyter Notebook App can be launched by clicking on the Jupyter Notebook icon installed by Anaconda in the start menu (Windows) or by typing in a terminal (cmd on Windows):
+```
+jupyter notebook
+```
+This will launch a new browser window (or a new tab) showing the Notebook Dashboard, a sort of control panel that allows (among other things) to select which notebook to open. Taken from: Jupyter notebook.
+
+### 6. Programming for Data Analysis
 
 
 
