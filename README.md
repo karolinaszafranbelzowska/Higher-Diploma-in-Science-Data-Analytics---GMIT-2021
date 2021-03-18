@@ -255,7 +255,7 @@ unstructured data will be covered for a number of modern database systems and ar
 
 ### 8. Web Application Development
 ________________________________________
-![](images/web_application.jpeg)
+![](images/web_application.jpg)
 
 ### How to clone any repository
 1. Go to GitHub.
