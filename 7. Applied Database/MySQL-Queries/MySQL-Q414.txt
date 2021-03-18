@@ -1,0 +1,10 @@
+
+   mysql> SELECT c.name as name, co.name as name, cl.Language as language, cl.Percentage as percentage
+	> FROM city c
+	> INNER JOIN country co
+	> ON c.ID = co.Capital
+	> INNER JOIN countrylanguage cl
+	> ON co.Code = cl.CountryCode
+	> WHERE cl.IsOfficial = "T"
+	> AND co.Continent = "North America"
+	> ORDER BY c.Name ASC, co.Name ASC, cl.Language ASC, cl.Percentage ASC;

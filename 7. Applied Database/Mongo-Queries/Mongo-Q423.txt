@@ -1,0 +1,4 @@
+
+
+>
+> db.docs.aggregate([{$match:{qualifications:{$exists:1}}}, {$count: "Qualified Students"}])
