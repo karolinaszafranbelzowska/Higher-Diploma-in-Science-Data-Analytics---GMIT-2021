@@ -269,7 +269,7 @@ those services with modern front-end frameworks.
 
 ### 9. Machine Learning and Statistics
 ________________________________________
-![](images/machine_learning.jpg)
+![](images/machine_learning.jpeg)
 
 
 ### How to clone any repository
