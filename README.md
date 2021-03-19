@@ -267,6 +267,11 @@ those services with modern front-end frameworks.
 3. Create a web application using a server-side framework.
 4. Manage the development of a web application.
 
+### 9. Machine Learning and Statistics
+________________________________________
+![](images/machine_learning.jpg)
+
+
 ### How to clone any repository
 1. Go to GitHub.
 2. Go to my repository: https://github.com/karolinaszafranbelzowska/Higher-Diploma-in-Science-Data-Analytics---GMIT-2021
