@@ -49,6 +49,8 @@ The learner will be able to:
  
 ### 1. Programming and Scripting
 ________________________________________
+![](images/python.jpeg)
+
 This module is an introduction to automating computer tasks using scripting languages and solving problems using programming languages, with a focus on
 data. It covered the high-level concepts and the theory.
 
@@ -215,7 +217,6 @@ This will launch a new browser window (or a new tab) showing the Notebook Dashbo
 
 ### 6. Programming for Data Analysis
 ________________________________________
-
 ![](images/data_science.jpeg)
 
 This module develops programming skills towards the effective use of data analysis libraries and software.
