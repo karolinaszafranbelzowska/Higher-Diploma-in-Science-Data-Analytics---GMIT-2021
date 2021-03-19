@@ -281,7 +281,7 @@ This module was an introduction to machine learning and the statistical aspects 
 
 ### 10. Multi-paradigm programming
 ________________________________________
-![](images/machine_learning.jpeg)
+![](images/paradigm.jpeg)
 
 This module was an introduction to various programming paradigms, such as object-oriented programming, functional programming and dataflow
 programming.
