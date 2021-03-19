@@ -271,6 +271,28 @@ those services with modern front-end frameworks.
 ________________________________________
 ![](images/machine_learning.jpeg)
 
+This module was an introduction to machine learning and the statistical aspects surrounding the theory.
+
+#### Learning Outcomes https://www.gmit.ie/sites/default/files/public/computing/docs/machine-learning-statistics.pdf
+1. Describe the stochastic nature of real-world measurements.
+2. Select an appropriate mathematical model of a real-world problem.
+3. Select an appropriate cost function for a given machine learning task.
+4. Apply an optimisation technique to the parameters of a model.
+
+### 10. Multi-paradigm programming
+________________________________________
+![](images/machine_learning.jpeg)
+
+This module was an introduction to various programming paradigms, such as object-oriented programming, functional programming and dataflow
+programming.
+
+#### Learning Outcomes https://www.gmit.ie/sites/default/files/public/computing/docs/multi-paradigm-programming.pdf
+1. Compare different programming paradigms.
+2. Select an appropriate programming paradigm for a given programming problem.
+3. Write programs using a variety of different programming paradigms.
+4. Explain how various programming paradigms have evolved over time.
+
+
 
 ### How to clone any repository
 1. Go to GitHub.
