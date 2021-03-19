@@ -257,6 +257,16 @@ unstructured data will be covered for a number of modern database systems and ar
 ________________________________________
 ![](images/web_application.jpg)
 
+This module introduced to modern web application and network application development using frameworks in high-level
+programming and scripting languages. The focus was on building light-weight network services, particularly web-based services, and integrating
+those services with modern front-end frameworks.
+
+#### Learning Outcomes https://www.gmit.ie/sites/default/files/public/computing/docs/web-application-development.pdf
+1. Describe the common architectures of web applications.
+2. Create scalable web services using modern architectural patterns.
+3. Create a web application using a server-side framework.
+4. Manage the development of a web application.
+
 ### How to clone any repository
 1. Go to GitHub.
 2. Go to my repository: https://github.com/karolinaszafranbelzowska/Higher-Diploma-in-Science-Data-Analytics---GMIT-2021
