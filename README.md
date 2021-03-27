@@ -28,7 +28,6 @@ ________________________________________
 10. Multi-paradigm programming	(5 credits)
 11. Work Placement or Project	(15 credits)
 
-
 ### Learning outcomes:
 ________________________________________
 The learner will have knowledge and understanding of advanced concepts in the following areas.
@@ -68,14 +67,17 @@ data. It covered the high-level concepts and the theory.
 1. Go to Github and select Programming and Sripting - Jupyter notebook or Programming and Scripting - VSC.
 2. Click the download button.
 
-#### How to run the code
-
+#### How to run the project (Visual Studio Code)
 1. Make sure you have Python installed. https://www.python.org/downloads/
 2. Download Python using Anaconda and use iPython. https://www.anaconda.com/distribution/
 3. Anaconda allows you to use software such as Visual Studio Code. https://code.visualstudio.com/download
 5. Download Vivual Studio Code, this will assist you in saving annd editing your code.
 6. Install Cmder in Windows to allow you run the code used in this repository. https://cmder.net/
 7. Open a command winder and use ipython.
+
+#### How to run the project (Jupyter notebook)
+The project is also written in Jupyter notebook and it is called "Programming and Scripting.ipynb", where the Data is summarized. 
+How to run the Jupyetr Notebook? - see the bottom of this README file.
 
 #### References:
 - https://www.sololearn.com/; 
@@ -123,13 +125,8 @@ The benchmarking process begins with the creation of arrays of random integer ar
 
 It should be noted that due to the nature of the simple sorting algorithms, the code herein may take quite some time to run as they attempt to sort the larger input sizes.
 
-#### How to run 'Jupyter notebook'
-The Jupyter Notebook App can be launched by clicking on the Jupyter Notebook icon installed by Anaconda in the start menu (Windows) or by typing in a terminal (cmd on Windows):
-'jupyter notebook'
-
-This will launch a new browser window (or a new tab) showing the Notebook Dashboard, a sort of control panel that allows (among other things) to select which notebook to open. Taken from: Jupyter notebook
-
-The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more.
+The project is written in Jupyter notebook and it is called "CTA.ipynb", where the Data is summarized. 
+How to run the Jupyetr Notebook? - see the bottom of this README file.
 
 #### References:
 - https://whatis.techtarget.com/definition/sorting-algorithm
@@ -148,6 +145,7 @@ The Jupyter Notebook is an open-source web application that allows you to create
 - https:/www.interviewcake.com/concept/java/counting-sort
 - https://www.blog.pythonlibrary.org/2016/05/24/python-101-an-intro-to-benchmarking-your-code/
 - https://www.tutorialspoint.com/python_data_structure/python_sorting_algorithms.htm
+
 **Also viewed:**
 - https://numpy.org
 - https://www.w3schools.com
@@ -190,9 +188,21 @@ The project is written using a standard word processor and .pdf format.
 3. Describe the topologies of computer networks.
 4. Explain the role of abstraction in the development of computer hardware and software.
 
+#### References:
+- https://www.cyberciti.biz/faq/save-file-in-vi-vim-linux-apple-macos-unix-bsd/
+- http://linuxcommand.org/lc3_wss0010.php
+- https://unix.stackexchange.com/questions/47584/in-a-bash-script-using-the-conditional-or-in-an-if-statement
+- https://stackoverflow.com/questions/13593771/repeat-command-automatically-in-linux
+- https://linuxhint.com/bash-while-loop-examples/
+- https://stackoverflow.com/questions/18488651/how-to-break-out-of-a-loop-in-bash
+- https://unix.stackexchange.com/questions/184631/bash-ubuntu-strings-in-while-loops
+- https://www.youtube.com/watch?v=IvHt_S3aYG4
+- https://www.tutorialspoint.com/unix/unix-basic-operators.htm
+
 
 ### 4. Data Representation
 ________________________________________
+![](images/data_rep.jpg)
 
 This repository contains the assignment of the Data Representation module for the Higher Diploma in Data Analytics with Galway-Mayo Institute of Technology.
 This module in which I was investigating and operating the protocols, standards and architectures used in representing data, with a focus on
@@ -241,6 +251,12 @@ create table employee (
     employee_Salary int
 );
 ```
+#### References:
+- https://en.wikipedia.org/wiki/Data_access_object, 05/12/2020
+- https://pl.wikipedia.org/wiki/AJAX, 08/12/2020
+- https://www.w3schools.com/xml/ajax_intro.asp,08/12/2020
+- https://github.com/andrewbeattycourseware/dataRepresenation2020
+- GMIT Video Lectures, Andrew Beatty
 
 ### 5. Fundamentals of Data Analysis
 ________________________________________
@@ -267,14 +283,8 @@ The module Fundamentals of Data Analysis is an introduction to the fundamentals 
 - and size of the table.
 
 #### How to run the project
-Make sure you have Python installed. The project is written in Jupyter notebook and it is called "Fundamentals of Data Analysis - tips dataset.ipynb", where the Data is summarized. The project also contains "tipsdata.csv" and "tips.jpg" (file with Photo of TIPS).
-
-#### How to run the Jupyter notebook
-The Jupyter Notebook App can be launched by clicking on the Jupyter Notebook icon installed by Anaconda in the start menu (Windows) or by typing in a terminal (cmd on Windows):
-```
-jupyter notebook
-```
-This will launch a new browser window (or a new tab) showing the Notebook Dashboard, a sort of control panel that allows (among other things) to select which notebook to open. Taken from: Jupyter notebook.
+The project is written in Jupyter notebook and it is called "Fundamentals of Data Analysis - tips dataset.ipynb", where the Data is summarized. The project also contains "tipsdata.csv" and "tips.jpg" (file with Photo of TIPS).
+How to run the Jupyetr Notebook? - see the bottom of this README file.
 
 ### 6. Programming for Data Analysis
 ________________________________________
@@ -301,9 +311,36 @@ This assignment on numpy.random is the part of the Programming for Data Analysis
 3. Explain the use and purpose of at least five "Distributions" functions.
 4. Explain the use of seeds in generating pseudorandom numbers.
 
+#### References:
+- https://www.researchgate.net/publication/332464628_Factors_that_affect_the_choice_of_Consumers_in_selecting_Retail_Store_for_Grocery_Shopping [Accessed 01/12/19]
+- http://www.tuttofood.it/en/blog/influencing-factors-grocery-shopping [Accesed 01/12/19]
+- https://www.statista.com/statistics/493800/factors-considered-by-us-consumers-in-choosing-stores-for-grocery-shopping/ [Accessed 01/12/19]
+- https://www.theguardian.com/business/2015/jan/30/tesco-cuts-range-products [Accessed 01/12/19]
+- https://www.eatthis.com/top-food-trends-2020/ [Accessed 01/12/19]
+- https://web.microsoftstream.com/video/20c35691-a985-4379-bfa3-a63828360881?list=user&userId=20b32719-41e8-4560-9f7f-c83ba751229c [Accessed 02/12/19]
+- https://www.treehugger.com/green-food/why-do-people-buy-organic.html [Accessed 02/12/19]
+- http://organictrust.ie/info/10_reasons_for_choosing_to_buy_organic_food [Accessed 02/12/19]
+- https://www.geeksforgeeks.org/different-ways-to-create-pandas-dataframe/ [Accessed 02/12/19]
+- https://towardsdatascience.com/synthetic-data-generation-a-must-have-skill-for-new-data-scientists-915896c0c1ae [Accessed 02/12/19]
+- https://www.researchgate.net/publication/239781750_Age_gender_and_income_Do_they_really_moderate_online_shopping_behaviour [Accessed 06/12/19]
+- https://ec.europa.eu/eurostat/statistics-explained/index.php/E-commerce_statistics_for_individuals [Accessed 06/12/19]
+- https://pynative.com/python-get-random-float-numbers/ [Accessed 08/12/19]
+- https://www.geeksforgeeks.org/numpy-median-in-python/ [Accessed 09/12/19] 
+- https://stackoverflow.com/questions/12207833/how-to-get-the-max-value-out-of-a-random-list-of-numbers-python [Accessed 09/12/19]
+- https://www.geeksforgeeks.org/python-statistics-median/ [Accessed 09/12/19]
+- https://www.citizensinformation.ie/en/reference/checklists/checklist_at_what_age_can_i.html [Accessed 14/12/19]
+- https://www.citizensinformation.ie/en/justice/criminal_law/criminal_offences/alcohol_and_the_law.html [Accessed 14/12/19]
+- https://www.irishtimes.com/news/bill-will-raise-to-18-minimum-age-to-purchase-tobacco-1.253232 [Accessed 14/12/19]
+- https://www.thesun.co.uk/news/9518161/national-lottery-age-limit-could-rise-from-16/ [Accessed 15/12/19]
+- https://plot.ly/python/histograms/ [Accessed 09/12/19]
+- https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.value_counts.html [Accessed 15/12/19]
+- https://www.tastetomorrow.com/inspiration/how-to-benefit-from-the-instagrammable-food-trend/381/ [Accessed 15/12/19]
+- https://www.natureswayfoods.com/discover/fresh-results/food-to-go/ [Accessed 15/12/19]
+- Food trends. Available online at: https://www.trendhunter.com/slideshow/chilled-snack [Accessed 15/12/19]
+- https://www.cbsnews.com/news/diet-trends-for-2019-what-to-try-what-to-skip/ [Accessed 15/12/19]
+
 ### 7. Applied Database
 ________________________________________
-
 ![](images/big_data.jpeg)
 
 This module is a comprehensive primer on databases, with a focus on data analysis. The creation, retrieval, update and deletion of both structured and
@@ -314,6 +351,29 @@ unstructured data will be covered for a number of modern database systems and ar
 2. Determine the correct data to select from a database in order to perform a given data analysis.
 3. Select an appropriate interface to access a database for a given application.
 4. Determine the best balance between application and database logic for a given data analysis process.
+
+#### References:
+- https://www.import.io/post/what-is-data-normalization-and-why-is-it-important/ (02/08/2020)
+- https://www.geeksforgeeks.org/difference-between-primary-key-and-foreign-key/ (02/08/2020)
+- https://www.w3schools.com/sql/sql_foreignkey.asp (02/08/2020)
+- https://en.wikipedia.org/wiki/Third_normal_form (02/08/2020)
+- 
+***GitHub Repositories"***
+- https://github.com/NiamhOL?tab=repositories
+- https://github.com/g00387822
+- https://github.com/ClodaghMurphy?tab=repositories
+- https://github.com/angela1C?tab=repositories
+- https://github.com/johndunne2019?tab=repositories
+- 
+***Other Web pages:***
+- https://www.datacamp.com/community/tutorials/mysql-python
+- https://dev.mysql.com/doc/connector-python/en/connector-python-example-connecting.html
+- https://pypi.org/project/PyMySQL/
+- https://www.w3schools.com/python/python_mongodb_insert.asp
+- https://docs.mongodb.com/manual/reference/operator/
+- https://dev.mysql.com/doc/refman/5.6/en/non-typed-operators.html
+- The lecture slides presented in the course – Module: Applied Databases, Gerard Harrison – Higher Diploma in Data Analytics,  GMIT, 2020
+
 
 ### 8. Web Application Development
 ________________________________________
@@ -329,6 +389,29 @@ those services with modern front-end frameworks.
 3. Create a web application using a server-side framework.
 4. Manage the development of a web application.
 
+#### References:
+Webpages:
+- https://www.youtube.com/watch?v=2S1AbEWX85o
+- https://www.tutorialsteacher.com
+- https://www.w3schools.com
+- https://css-tricks.com
+- https://www.techonthenet.com
+- https://www.codecademy.com
+- https://htmldog.com/guides/html/beginner/
+- https://www.javatpoint.com/html-tutorial
+
+GitHub Repositories:
+- https://github.com/d3
+- https://github.com/Roisin-Fallon
+- https://github.com/andkoc001
+- https://github.com/shkyler
+- https://github.com/NiamhOL
+
+Lecture Notes:
+- dr. Michael Duignan (2020), Lecture notes  for Web Application Development, 
+ Higher Diploma in Science (Data Analytics), Galway Mayo Institute of Technology. 
+
+
 ### 9. Machine Learning and Statistics
 ________________________________________
 ![](images/machine_learning.jpeg)
@@ -340,21 +423,22 @@ This module was an introduction to machine learning and the statistical aspects 
 This task assessment has been carried out as an assignment of the Machine Learning and Statistic module of the Higher Diploma In Data Analytics at GMIT.
 The assessment was implemented in Jupyter Notebook (tasks.jpynb) using the Python programming language.
 
-The following tasks are included in the Jupyter Notebook.
+The project is written in Jupyter notebook and it is called "MLS tasks.ipynb", where the Data is summarized. 
+How to run the Jupyetr Notebook? - see the bottom of this README file.
 
-Task 1: Square root of 2 function.
+***Task 1:*** Square root of 2 function.
 
 Write a Python function called sqrt2 that calculates and prints to the screen the square root of 2 to 100 decimal places. Your code should not depend on any module from the standard library1 or otherwise. You should research the task first and include references and a description of your algorithm.
 
-Task 2: Chi-squared Test for Indendence.
+***Task 2:*** Chi-squared Test for Indendence.
 
 The Chi-squared test for independence is a statistical hypothesis test like a t-test. It is used to analyse whether two categorical variables are independent. The Wikipedia article gives the table below as an example, stating the Chi-squared value based on it is approximately 24.6. Use scipy.stats to verify this value and calculate the associated p value. You should include a short note with references justifying your analysis in a markdown cell.
 
-Task 3: Microsoft Excel function for Standard Deviation.
+***Task 3:*** Microsoft Excel function for Standard Deviation.
 
 The standard deviation of an array of numbers x is calculated using numpy as np.sqrt(np.sum((x - np.mean(x))**2)/len(x)) . However, Microsoft Excel has two different versions of the standard deviation calculation, STDEV.P and STDEV.S . The STDEV.P function performs the above calculation but in the STDEV.S calculation the division is by len(x)-1 rather than len(x) . Research these Excel functions, writing a note in a Markdown cell about the difference between them. Then use numpy to perform a simulation demonstrating that the STDEV.S calculation is a better estimate for the standard deviation of a population when performed on a sample. Note that part of this task is to figure out the terminology in the previous sentence.
 
-Task 4: k-means clustering of Ronald Fisher’s famous Iris flower data set.
+***Task 4:*** k-means clustering of Ronald Fisher’s famous Iris flower data set.
 
 Apply k-means clustering Ronald Fisher’s famous Iris flower data set using scikit-learn. Explain the k-means clustering code and accuracies achieved. Explain how the model could be used to make a prediction of the iris species.
 
@@ -460,3 +544,18 @@ ________________________________________
 6. Enter the command: git clone followed by the URL of the repository.
 7. The repository will be cloned down to your current working directory.
 8. You will need to navigate to this folder location on the command line in order to run the program.
+
+### How to run Jupyter Notebook
+The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more.
+
+Make sure you have Python installed.
+
+The Jupyter Notebook App can be launched by clicking on the Jupyter Notebook icon installed by Anaconda in the start menu (Windows) or by typing in a terminal (cmd on Windows):
+```
+jupyter notebook
+```
+This will launch a new browser window (or a new tab) showing the Notebook Dashboard, a sort of control panel that allows (among other things) to select which notebook to open. *Taken from: Jupyter notebook.*
+
+
+
+
