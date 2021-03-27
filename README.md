@@ -80,6 +80,7 @@ data. It covered the high-level concepts and the theory.
 
 ### 2. Computational Thinking with Algorithms
 ________________________________________
+![](images/Algorithms.jpg)
 
 This repository contains the benchmarking code for five different sorting algorithms as part of the assessment in the Computational Thinking with Algorithms module for the Higher Diploma in Data Analytics with Galway-Mayo Institute of Technology.
 
