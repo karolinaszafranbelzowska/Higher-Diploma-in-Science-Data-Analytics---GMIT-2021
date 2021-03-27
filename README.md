@@ -251,6 +251,12 @@ create table employee (
     employee_Salary int
 );
 ```
+#### References:
+- https://en.wikipedia.org/wiki/Data_access_object, 05/12/2020
+- https://pl.wikipedia.org/wiki/AJAX, 08/12/2020
+- https://www.w3schools.com/xml/ajax_intro.asp,08/12/2020
+- https://github.com/andrewbeattycourseware/dataRepresenation2020
+- GMIT Video Lectures, Andrew Beatty
 
 ### 5. Fundamentals of Data Analysis
 ________________________________________
@@ -305,6 +311,34 @@ This assignment on numpy.random is the part of the Programming for Data Analysis
 3. Explain the use and purpose of at least five "Distributions" functions.
 4. Explain the use of seeds in generating pseudorandom numbers.
 
+#### References:
+- https://www.researchgate.net/publication/332464628_Factors_that_affect_the_choice_of_Consumers_in_selecting_Retail_Store_for_Grocery_Shopping [Accessed 01/12/19]
+- http://www.tuttofood.it/en/blog/influencing-factors-grocery-shopping [Accesed 01/12/19]
+- https://www.statista.com/statistics/493800/factors-considered-by-us-consumers-in-choosing-stores-for-grocery-shopping/ [Accessed 01/12/19]
+- https://www.theguardian.com/business/2015/jan/30/tesco-cuts-range-products [Accessed 01/12/19]
+- https://www.eatthis.com/top-food-trends-2020/ [Accessed 01/12/19]
+- https://web.microsoftstream.com/video/20c35691-a985-4379-bfa3-a63828360881?list=user&userId=20b32719-41e8-4560-9f7f-c83ba751229c [Accessed 02/12/19]
+- https://www.treehugger.com/green-food/why-do-people-buy-organic.html [Accessed 02/12/19]
+- http://organictrust.ie/info/10_reasons_for_choosing_to_buy_organic_food [Accessed 02/12/19]
+- https://www.geeksforgeeks.org/different-ways-to-create-pandas-dataframe/ [Accessed 02/12/19]
+- https://towardsdatascience.com/synthetic-data-generation-a-must-have-skill-for-new-data-scientists-915896c0c1ae [Accessed 02/12/19]
+- https://www.researchgate.net/publication/239781750_Age_gender_and_income_Do_they_really_moderate_online_shopping_behaviour [Accessed 06/12/19]
+- https://ec.europa.eu/eurostat/statistics-explained/index.php/E-commerce_statistics_for_individuals [Accessed 06/12/19]
+- https://pynative.com/python-get-random-float-numbers/ [Accessed 08/12/19]
+- https://www.geeksforgeeks.org/numpy-median-in-python/ [Accessed 09/12/19] 
+- https://stackoverflow.com/questions/12207833/how-to-get-the-max-value-out-of-a-random-list-of-numbers-python [Accessed 09/12/19]
+- https://www.geeksforgeeks.org/python-statistics-median/ [Accessed 09/12/19]
+- https://www.citizensinformation.ie/en/reference/checklists/checklist_at_what_age_can_i.html [Accessed 14/12/19]
+- https://www.citizensinformation.ie/en/justice/criminal_law/criminal_offences/alcohol_and_the_law.html [Accessed 14/12/19]
+- https://www.irishtimes.com/news/bill-will-raise-to-18-minimum-age-to-purchase-tobacco-1.253232 [Accessed 14/12/19]
+- https://www.thesun.co.uk/news/9518161/national-lottery-age-limit-could-rise-from-16/ [Accessed 15/12/19]
+- https://plot.ly/python/histograms/ [Accessed 09/12/19]
+- https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.value_counts.html [Accessed 15/12/19]
+- https://www.tastetomorrow.com/inspiration/how-to-benefit-from-the-instagrammable-food-trend/381/ [Accessed 15/12/19]
+- https://www.natureswayfoods.com/discover/fresh-results/food-to-go/ [Accessed 15/12/19]
+- Food trends. Available online at: https://www.trendhunter.com/slideshow/chilled-snack [Accessed 15/12/19]
+- https://www.cbsnews.com/news/diet-trends-for-2019-what-to-try-what-to-skip/ [Accessed 15/12/19]
+
 ### 7. Applied Database
 ________________________________________
 ![](images/big_data.jpeg)
@@ -317,6 +351,27 @@ unstructured data will be covered for a number of modern database systems and ar
 2. Determine the correct data to select from a database in order to perform a given data analysis.
 3. Select an appropriate interface to access a database for a given application.
 4. Determine the best balance between application and database logic for a given data analysis process.
+
+#### References:
+- https://www.import.io/post/what-is-data-normalization-and-why-is-it-important/ (02/08/2020)
+- https://www.geeksforgeeks.org/difference-between-primary-key-and-foreign-key/ (02/08/2020)
+- https://www.w3schools.com/sql/sql_foreignkey.asp (02/08/2020)
+- https://en.wikipedia.org/wiki/Third_normal_form (02/08/2020)
+***GitHub Repositories"***
+- https://github.com/NiamhOL?tab=repositories
+- https://github.com/g00387822
+- https://github.com/ClodaghMurphy?tab=repositories
+- https://github.com/angela1C?tab=repositories
+- https://github.com/johndunne2019?tab=repositories
+***Other Web pages:***
+- https://www.datacamp.com/community/tutorials/mysql-python
+- https://dev.mysql.com/doc/connector-python/en/connector-python-example-connecting.html
+- https://pypi.org/project/PyMySQL/
+- https://www.w3schools.com/python/python_mongodb_insert.asp
+- https://docs.mongodb.com/manual/reference/operator/
+- https://dev.mysql.com/doc/refman/5.6/en/non-typed-operators.html
+- The lecture slides presented in the course – Module: Applied Databases, Gerard Harrison – Higher Diploma in Data Analytics,  GMIT, 2020
+
 
 ### 8. Web Application Development
 ________________________________________
@@ -331,6 +386,29 @@ those services with modern front-end frameworks.
 2. Create scalable web services using modern architectural patterns.
 3. Create a web application using a server-side framework.
 4. Manage the development of a web application.
+
+#### References:
+Webpages:
+- https://www.youtube.com/watch?v=2S1AbEWX85o
+- https://www.tutorialsteacher.com
+- https://www.w3schools.com
+- https://css-tricks.com
+- https://www.techonthenet.com
+- https://www.codecademy.com
+- https://htmldog.com/guides/html/beginner/
+- https://www.javatpoint.com/html-tutorial
+
+GitHub Repositories:
+- https://github.com/d3
+- https://github.com/Roisin-Fallon
+- https://github.com/andkoc001
+- https://github.com/shkyler
+- https://github.com/NiamhOL
+
+Lecture Notes:
+- dr. Michael Duignan (2020), Lecture notes  for Web Application Development, 
+ Higher Diploma in Science (Data Analytics), Galway Mayo Institute of Technology. 
+
 
 ### 9. Machine Learning and Statistics
 ________________________________________
