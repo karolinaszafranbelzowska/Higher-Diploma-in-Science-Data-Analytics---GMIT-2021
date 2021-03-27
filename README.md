@@ -280,7 +280,8 @@ This module was an introduction to machine learning and the statistical aspects 
 This task assessment has been carried out as an assignment of the Machine Learning and Statistic module of the Higher Diploma In Data Analytics at GMIT.
 The assessment was implemented in Jupyter Notebook (tasks.jpynb) using the Python programming language.
 
-The following tasks are included in the Jupyter Notebook
+The following tasks are included in the Jupyter Notebook.
+
 Task 1: Square root of 2 function.
 
 Write a Python function called sqrt2 that calculates and prints to the screen the square root of 2 to 100 decimal places. Your code should not depend on any module from the standard library1 or otherwise. You should research the task first and include references and a description of your algorithm.
@@ -297,11 +298,47 @@ Task 4: k-means clustering of Ronald Fisher’s famous Iris flower data set.
 
 Apply k-means clustering Ronald Fisher’s famous Iris flower data set using scikit-learn. Explain the k-means clustering code and accuracies achieved. Explain how the model could be used to make a prediction of the iris species.
 
+**Machine Learning and Statistics - project**
+
+This project creates a web service that uses machine learning to make predictions based on the dataset powerproduction. The goal is to produce a model that accurately predicts wind speed values. The web service will respond with predicted power values based on speed values sent as HTTP requests. The assignment was implemented in Python Language. 
+
 #### Learning Outcomes https://www.gmit.ie/sites/default/files/public/computing/docs/machine-learning-statistics.pdf
 1. Describe the stochastic nature of real-world measurements.
 2. Select an appropriate mathematical model of a real-world problem.
 3. Select an appropriate cost function for a given machine learning task.
 4. Apply an optimisation technique to the parameters of a model.
+
+#### Packages used in this project
+- Python 3 https://docs.python.org/3/
+- Numpy http://www.numpy.org/
+- Jupyter Notebook https://jupyter.org/
+- Pandas https://pandas.pydata.org/
+- Scipy.stats https://docs.scipy.org/doc/scipy/reference/stats.html
+- Matplotlib.pylab https://matplotlib.org/
+- Flask https://flask.palletsprojects.com/en/1.1.x/
+- Seaborn https://seaborn.pydata.org/
+- Tensorflow.keras https://www.tensorflow.org/, https://keras.io/
+- Scikit-learn https://scikit-learn.org/stable/
+
+#### References:
+- https://github.com/ianmcloughlin/jupyter-teaching-notebooks/blob/master/keras-neurons.ipynb, 02/01/2021
+- https://keras.io/, 02/01/2021
+- https://en.wikipedia.org/wiki/Wind_turbine, 03/01/2021
+- https://www3.ntu.edu.sg/home/, 03/01/2021
+- https://machinelearningmastery.com/, 03/01/221
+- https://www.w3schools.com/python/
+- https://en.wikipedia.org/wiki/Wind_turbine
+- https://en.wikipedia.org/wiki/Wind_power
+- https://ksopyla.com/machine-learning/modele-regresji-liniowej-z-scikit-learn/
+- https://ichi.pro/pl/algorytm-regresji-liniowej-od-podstaw-w-pythonie-253366674175694
+
+**GitHub repositories:**
+
+- https://github.com/Freeha-S?tab=repositories
+- https://github.com/doriszd?tab=repositories
+- https://github.com/johndunne2019?tab=repositories
+- https://github.com/andkoc001?tab=repositories
+- https://github.com/IanWafer?tab=repositories
 
 ### 10. Multi-paradigm programming
 ________________________________________
