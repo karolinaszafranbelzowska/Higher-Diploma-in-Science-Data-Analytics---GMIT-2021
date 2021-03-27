@@ -175,6 +175,7 @@ The Jupyter Notebook is an open-source web application that allows you to create
 
 ### 3. Computer Architecture and Technology Convergence
 ________________________________________
+![](images/computer architecture.jpg)
 
 This repository contains the assessment in the Computer Architecture and Technology Convergence module for the Higher Diploma in Data Analytics with Galway-Mayo Institute of Technology.
 
