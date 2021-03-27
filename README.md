@@ -131,6 +131,7 @@ This will launch a new browser window (or a new tab) showing the Notebook Dashbo
 
 The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more.
 
+#### References:
 - https://whatis.techtarget.com/definition/sorting-algorithm
 - https://www.studytonight.com/data-structures/introduction-to-sorting
 - https://en.wikipedia.org/wiki/Sorting_algorithm
