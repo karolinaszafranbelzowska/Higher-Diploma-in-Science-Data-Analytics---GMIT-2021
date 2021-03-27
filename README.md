@@ -28,7 +28,6 @@ ________________________________________
 10. Multi-paradigm programming	(5 credits)
 11. Work Placement or Project	(15 credits)
 
-
 ### Learning outcomes:
 ________________________________________
 The learner will have knowledge and understanding of advanced concepts in the following areas.
