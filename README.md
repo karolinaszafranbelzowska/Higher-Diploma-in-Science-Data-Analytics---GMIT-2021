@@ -131,6 +131,46 @@ This will launch a new browser window (or a new tab) showing the Notebook Dashbo
 
 The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more.
 
+- https://whatis.techtarget.com/definition/sorting-algorithm
+- https://www.studytonight.com/data-structures/introduction-to-sorting
+- https://en.wikipedia.org/wiki/Sorting_algorithm
+- https://en.wikipedia.org/wiki/Best,_worst_and_average_case
+- https://www.geeksforgeeks.org/g-fact-86/
+- https://en.wikipedia.org/wiki/Big_O_notation
+- https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/
+- https://medium.com/better-programming/a-gentle-explanation-of-logarithmic-time-complexity-79842728a702
+- http://mca.kiet.edu/webguru/unit-1ds.html
+- https://www.baeldung.com/cs/stable-sorting-algorithms
+- https://stackoverflow.com/questions/25788781/definition-of-non-comparison-sort
+- https://en.wikipedia.org/wiki/Comparison_sort
+- https://www.geeksforgeeks.org/time-complexities-of-all-sorting-algorithms/
+- https:/www.interviewcake.com/concept/java/counting-sort
+- https://www.blog.pythonlibrary.org/2016/05/24/python-101-an-intro-to-benchmarking-your-code/
+- https://www.tutorialspoint.com/python_data_structure/python_sorting_algorithms.htm
+**Also viewed:**
+- https://numpy.org
+- https://www.w3schools.com
+- https://pandas.pydata.org
+- https://www.geeksforgeeks.org
+- https://datatofish.com
+- https://matplotlib.org
+- https://docs.python.org
+- https://stackoverflow.com
+- https://runestone.academy/runestone/books/published/pythonds/SortSearch/TheBubbleSort.html
+  https://runestone.academy/runestone/books/published/pythonds/SortSearch/TheSelectionSort.html
+  https://runestone.academy/runestone/books/published/pythonds/SortSearch/TheMergeSort.html
+  https://runestone.academy/runestone/books/published/pythonds/SortSearch/TheInsertionSort.html
+**Videos:**
+- https://www.youtube.com/watch?v=AthG28-_RuM&t=445s
+- https://www.youtube.com/watch?v=AgtzMtrzhzs
+- https://www.youtube.com/watch?v=JxTghISBmI8
+- https://www.youtube.com/watch?v=3aTfQvs-_hA
+**Github Repositories:**
+- https://github.com/jennifer-ryan/benchmarking-sorting-algorithms
+- https://github.com/andkoc001/CTA_sorting_project
+- https://github.com/johndunne2019/CTA-Project-Benchmarking-Sorting-Algorithms
+- https://gist.github.com/haandol/a5df913cfd278820e43e
+- https://github.com/Thalmann/counting_sort/blob/master/counting_sort.py
 
 ### 3. Computer Architecture and Technology Convergence
 ________________________________________
