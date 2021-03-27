@@ -77,6 +77,24 @@ data. It covered the high-level concepts and the theory.
 6. Install Cmder in Windows to allow you run the code used in this repository. https://cmder.net/
 7. Open a command winder and use ipython.
 
+#### References:
+- https://www.sololearn.com/; 
+- https://docs.python.org/3/library/: 
+- https://www.youtube.com/; 
+- https://stackoverflow.com/; 
+- https://en.wikipedia.org/wiki/Iris_flower_data_set 
+- https://www.geeksforgeeks.org/python-pandas-series/;
+- https://github.com/RitRa/Project2018-iris 
+- https://machinelearningmastery.com/python-machine-learning-mini-course/; 
+- https://help.github.com/en/articles/adding-a-file-to-a-repository; 
+- https://guides.github.com/features/mastering-markdown/; 
+- https://stackoverflow.com/questions/33889310/r-summary-equivalent-in-numpy; 
+- https://www.youtube.com/watch?v=hd1W4CyPX58 
+- http://blog.kaggle.com/2015/04/22/scikit-learn-video-3-machine-learning-first-steps-with-the-iris-dataset/; 
+- https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html; 
+- https://www.kaggle.com/abhishekkrg/python-iris-data-visualization-and-explanation; 
+- http://scipy-lectures.org/packages/statistics/index.html#statistics
+
 
 ### 2. Computational Thinking with Algorithms
 ________________________________________
@@ -113,6 +131,47 @@ This will launch a new browser window (or a new tab) showing the Notebook Dashbo
 
 The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more.
 
+#### References:
+- https://whatis.techtarget.com/definition/sorting-algorithm
+- https://www.studytonight.com/data-structures/introduction-to-sorting
+- https://en.wikipedia.org/wiki/Sorting_algorithm
+- https://en.wikipedia.org/wiki/Best,_worst_and_average_case
+- https://www.geeksforgeeks.org/g-fact-86/
+- https://en.wikipedia.org/wiki/Big_O_notation
+- https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/
+- https://medium.com/better-programming/a-gentle-explanation-of-logarithmic-time-complexity-79842728a702
+- http://mca.kiet.edu/webguru/unit-1ds.html
+- https://www.baeldung.com/cs/stable-sorting-algorithms
+- https://stackoverflow.com/questions/25788781/definition-of-non-comparison-sort
+- https://en.wikipedia.org/wiki/Comparison_sort
+- https://www.geeksforgeeks.org/time-complexities-of-all-sorting-algorithms/
+- https:/www.interviewcake.com/concept/java/counting-sort
+- https://www.blog.pythonlibrary.org/2016/05/24/python-101-an-intro-to-benchmarking-your-code/
+- https://www.tutorialspoint.com/python_data_structure/python_sorting_algorithms.htm
+**Also viewed:**
+- https://numpy.org
+- https://www.w3schools.com
+- https://pandas.pydata.org
+- https://www.geeksforgeeks.org
+- https://datatofish.com
+- https://matplotlib.org
+- https://docs.python.org
+- https://stackoverflow.com
+- https://runestone.academy/runestone/books/published/pythonds/SortSearch/TheBubbleSort.html
+  https://runestone.academy/runestone/books/published/pythonds/SortSearch/TheSelectionSort.html
+  https://runestone.academy/runestone/books/published/pythonds/SortSearch/TheMergeSort.html
+  https://runestone.academy/runestone/books/published/pythonds/SortSearch/TheInsertionSort.html
+**Videos:**
+- https://www.youtube.com/watch?v=AthG28-_RuM&t=445s
+- https://www.youtube.com/watch?v=AgtzMtrzhzs
+- https://www.youtube.com/watch?v=JxTghISBmI8
+- https://www.youtube.com/watch?v=3aTfQvs-_hA
+**Github Repositories:**
+- https://github.com/jennifer-ryan/benchmarking-sorting-algorithms
+- https://github.com/andkoc001/CTA_sorting_project
+- https://github.com/johndunne2019/CTA-Project-Benchmarking-Sorting-Algorithms
+- https://gist.github.com/haandol/a5df913cfd278820e43e
+- https://github.com/Thalmann/counting_sort/blob/master/counting_sort.py
 
 ### 3. Computer Architecture and Technology Convergence
 ________________________________________
@@ -275,11 +334,70 @@ ________________________________________
 
 This module was an introduction to machine learning and the statistical aspects surrounding the theory.
 
+**Machine Learning and Statistics - tasks**
+
+This task assessment has been carried out as an assignment of the Machine Learning and Statistic module of the Higher Diploma In Data Analytics at GMIT.
+The assessment was implemented in Jupyter Notebook (tasks.jpynb) using the Python programming language.
+
+The following tasks are included in the Jupyter Notebook.
+
+Task 1: Square root of 2 function.
+
+Write a Python function called sqrt2 that calculates and prints to the screen the square root of 2 to 100 decimal places. Your code should not depend on any module from the standard library1 or otherwise. You should research the task first and include references and a description of your algorithm.
+
+Task 2: Chi-squared Test for Indendence.
+
+The Chi-squared test for independence is a statistical hypothesis test like a t-test. It is used to analyse whether two categorical variables are independent. The Wikipedia article gives the table below as an example, stating the Chi-squared value based on it is approximately 24.6. Use scipy.stats to verify this value and calculate the associated p value. You should include a short note with references justifying your analysis in a markdown cell.
+
+Task 3: Microsoft Excel function for Standard Deviation.
+
+The standard deviation of an array of numbers x is calculated using numpy as np.sqrt(np.sum((x - np.mean(x))**2)/len(x)) . However, Microsoft Excel has two different versions of the standard deviation calculation, STDEV.P and STDEV.S . The STDEV.P function performs the above calculation but in the STDEV.S calculation the division is by len(x)-1 rather than len(x) . Research these Excel functions, writing a note in a Markdown cell about the difference between them. Then use numpy to perform a simulation demonstrating that the STDEV.S calculation is a better estimate for the standard deviation of a population when performed on a sample. Note that part of this task is to figure out the terminology in the previous sentence.
+
+Task 4: k-means clustering of Ronald Fisher’s famous Iris flower data set.
+
+Apply k-means clustering Ronald Fisher’s famous Iris flower data set using scikit-learn. Explain the k-means clustering code and accuracies achieved. Explain how the model could be used to make a prediction of the iris species.
+
+**Machine Learning and Statistics - project**
+
+This project creates a web service that uses machine learning to make predictions based on the dataset powerproduction. The goal is to produce a model that accurately predicts wind speed values. The web service will respond with predicted power values based on speed values sent as HTTP requests. The assignment was implemented in Python Language. 
+
 #### Learning Outcomes https://www.gmit.ie/sites/default/files/public/computing/docs/machine-learning-statistics.pdf
 1. Describe the stochastic nature of real-world measurements.
 2. Select an appropriate mathematical model of a real-world problem.
 3. Select an appropriate cost function for a given machine learning task.
 4. Apply an optimisation technique to the parameters of a model.
+
+#### Packages used in this project
+- Python 3 https://docs.python.org/3/
+- Numpy http://www.numpy.org/
+- Jupyter Notebook https://jupyter.org/
+- Pandas https://pandas.pydata.org/
+- Scipy.stats https://docs.scipy.org/doc/scipy/reference/stats.html
+- Matplotlib.pylab https://matplotlib.org/
+- Flask https://flask.palletsprojects.com/en/1.1.x/
+- Seaborn https://seaborn.pydata.org/
+- Tensorflow.keras https://www.tensorflow.org/, https://keras.io/
+- Scikit-learn https://scikit-learn.org/stable/
+
+#### References:
+- https://github.com/ianmcloughlin/jupyter-teaching-notebooks/blob/master/keras-neurons.ipynb, 02/01/2021
+- https://keras.io/, 02/01/2021
+- https://en.wikipedia.org/wiki/Wind_turbine, 03/01/2021
+- https://www3.ntu.edu.sg/home/, 03/01/2021
+- https://machinelearningmastery.com/, 03/01/221
+- https://www.w3schools.com/python/
+- https://en.wikipedia.org/wiki/Wind_turbine
+- https://en.wikipedia.org/wiki/Wind_power
+- https://ksopyla.com/machine-learning/modele-regresji-liniowej-z-scikit-learn/
+- https://ichi.pro/pl/algorytm-regresji-liniowej-od-podstaw-w-pythonie-253366674175694
+
+**GitHub repositories:**
+
+- https://github.com/Freeha-S?tab=repositories
+- https://github.com/doriszd?tab=repositories
+- https://github.com/johndunne2019?tab=repositories
+- https://github.com/andkoc001?tab=repositories
+- https://github.com/IanWafer?tab=repositories
 
 ### 10. Multi-paradigm programming
 ________________________________________
@@ -299,8 +417,39 @@ The assignment was implemented in C Procedural Language, Python Procedural and O
 3. Write programs using a variety of different programming paradigms.
 4. Explain how various programming paradigms have evolved over time.
 
+#### References:
+- https://slideplayer.com/slide/2811690/, 27/12/2020
+- https://en.wikipedia.org/wiki/Programming_paradigm, 22/12/2020
+- https://www.computerhope.com/jargon/i/imp-programming.htm, 22/12/2020
+- https://en.wikipedia.org/wiki/Dennis_Ritchie
+- https://www.computerhope.com/jargon/c/c.htm, 27/12/2020
+- https://en.wikipedia.org/wiki/C_(programming_language), 27/12/2020
+- https://blog.eduonix.com/featured/2019-survey-stackoverflow-know/, 27/12/2020
+- https://en.wikipedia.org/wiki/Python_(programming_language), 27/12/2020
+- https://en.wikipedia.org/wiki/Guido_van_Rossum, 27/12/2020
+- https://www.tiobe.com/tiobe-index/, 27/12/2020
+- https://www.geeksforgeeks.org/python-features/, 27/12/2020
+- https://towardsdatascience.com/python-procedural-or-object-oriented-programming-42c66a008676, 27/12/2020
+- https://www.educba.com/c-vs-python/, 27/12/2020
+#### Also reviewed:
+- Dr Dominic Carr – Lecture materials : https://learnonline.gmit.ie/course/view.php?id=1902
+- https://docs.python.org
+- https://github.com/realpython
+- https://www.stavros.io/tutorials/python/
+- https://codecondo.com/10-ways-to-learn-python/
+- https://www.linuxjournal.com/article/3946
+- http://www.trytoprogram.com/python-programming/
+- https://python-3-patterns-idioms-test.readthedocs.io/en/latest/
+- https://www.programiz.com/c-programming
+- https://www.tutorialspoint.com/cprogramming/index.htm
+- https://www.learn-c.org/
+- https://www.youtube.com/watch?v=iT_553vTyzI
+- https://www.geeksforgeeks.org/c-programming-language/
+- https://www.tutorialspoint.com/differences-between-procedural-and-object-oriented-programming
+- https://www.tutorialspoint.com/difference-between-c-and-python
 
-
+________________________________________
+________________________________________
 ### How to clone any repository
 1. Go to GitHub.
 2. Go to my repository: https://github.com/karolinaszafranbelzowska/Higher-Diploma-in-Science-Data-Analytics---GMIT-2021
