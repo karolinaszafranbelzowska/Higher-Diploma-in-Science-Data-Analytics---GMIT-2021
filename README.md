@@ -188,6 +188,17 @@ The project is written using a standard word processor and .pdf format.
 3. Describe the topologies of computer networks.
 4. Explain the role of abstraction in the development of computer hardware and software.
 
+#### References:
+- https://www.cyberciti.biz/faq/save-file-in-vi-vim-linux-apple-macos-unix-bsd/
+- http://linuxcommand.org/lc3_wss0010.php
+- https://unix.stackexchange.com/questions/47584/in-a-bash-script-using-the-conditional-or-in-an-if-statement
+- https://stackoverflow.com/questions/13593771/repeat-command-automatically-in-linux
+- https://linuxhint.com/bash-while-loop-examples/
+- https://stackoverflow.com/questions/18488651/how-to-break-out-of-a-loop-in-bash
+- https://unix.stackexchange.com/questions/184631/bash-ubuntu-strings-in-while-loops
+- https://www.youtube.com/watch?v=IvHt_S3aYG4
+- https://www.tutorialspoint.com/unix/unix-basic-operators.htm
+
 
 ### 4. Data Representation
 ________________________________________
