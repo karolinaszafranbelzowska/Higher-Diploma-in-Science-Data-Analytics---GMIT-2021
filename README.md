@@ -358,6 +358,36 @@ The assignment was implemented in C Procedural Language, Python Procedural and O
 3. Write programs using a variety of different programming paradigms.
 4. Explain how various programming paradigms have evolved over time.
 
+#### References:
+- https://slideplayer.com/slide/2811690/, 27/12/2020
+- https://en.wikipedia.org/wiki/Programming_paradigm, 22/12/2020
+- https://www.computerhope.com/jargon/i/imp-programming.htm, 22/12/2020
+- https://en.wikipedia.org/wiki/Dennis_Ritchie
+- https://www.computerhope.com/jargon/c/c.htm, 27/12/2020
+- https://en.wikipedia.org/wiki/C_(programming_language), 27/12/2020
+- https://blog.eduonix.com/featured/2019-survey-stackoverflow-know/, 27/12/2020
+- https://en.wikipedia.org/wiki/Python_(programming_language), 27/12/2020
+- https://en.wikipedia.org/wiki/Guido_van_Rossum, 27/12/2020
+- https://www.tiobe.com/tiobe-index/, 27/12/2020
+- https://www.geeksforgeeks.org/python-features/, 27/12/2020
+- https://towardsdatascience.com/python-procedural-or-object-oriented-programming-42c66a008676, 27/12/2020
+- https://www.educba.com/c-vs-python/, 27/12/2020
+#### Also reviewed:
+Dr Dominic Carr – Lecture materials : https://learnonline.gmit.ie/course/view.php?id=1902
+https://docs.python.org
+https://github.com/realpython
+https://www.stavros.io/tutorials/python/
+https://codecondo.com/10-ways-to-learn-python/
+https://www.linuxjournal.com/article/3946
+http://www.trytoprogram.com/python-programming/
+https://python-3-patterns-idioms-test.readthedocs.io/en/latest/
+https://www.programiz.com/c-programming
+https://www.tutorialspoint.com/cprogramming/index.htm
+https://www.learn-c.org/
+https://www.youtube.com/watch?v=iT_553vTyzI
+https://www.geeksforgeeks.org/c-programming-language/
+https://www.tutorialspoint.com/differences-between-procedural-and-object-oriented-programming
+https://www.tutorialspoint.com/difference-between-c-and-python
 
 ________________________________________
 ________________________________________
