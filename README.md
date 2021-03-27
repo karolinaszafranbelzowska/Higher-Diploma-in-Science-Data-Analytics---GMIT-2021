@@ -373,21 +373,21 @@ The assignment was implemented in C Procedural Language, Python Procedural and O
 - https://towardsdatascience.com/python-procedural-or-object-oriented-programming-42c66a008676, 27/12/2020
 - https://www.educba.com/c-vs-python/, 27/12/2020
 #### Also reviewed:
-Dr Dominic Carr – Lecture materials : https://learnonline.gmit.ie/course/view.php?id=1902
-https://docs.python.org
-https://github.com/realpython
-https://www.stavros.io/tutorials/python/
-https://codecondo.com/10-ways-to-learn-python/
-https://www.linuxjournal.com/article/3946
-http://www.trytoprogram.com/python-programming/
-https://python-3-patterns-idioms-test.readthedocs.io/en/latest/
-https://www.programiz.com/c-programming
-https://www.tutorialspoint.com/cprogramming/index.htm
-https://www.learn-c.org/
-https://www.youtube.com/watch?v=iT_553vTyzI
-https://www.geeksforgeeks.org/c-programming-language/
-https://www.tutorialspoint.com/differences-between-procedural-and-object-oriented-programming
-https://www.tutorialspoint.com/difference-between-c-and-python
+- Dr Dominic Carr – Lecture materials : https://learnonline.gmit.ie/course/view.php?id=1902
+- https://docs.python.org
+- https://github.com/realpython
+- https://www.stavros.io/tutorials/python/
+- https://codecondo.com/10-ways-to-learn-python/
+- https://www.linuxjournal.com/article/3946
+- http://www.trytoprogram.com/python-programming/
+- https://python-3-patterns-idioms-test.readthedocs.io/en/latest/
+- https://www.programiz.com/c-programming
+- https://www.tutorialspoint.com/cprogramming/index.htm
+- https://www.learn-c.org/
+- https://www.youtube.com/watch?v=iT_553vTyzI
+- https://www.geeksforgeeks.org/c-programming-language/
+- https://www.tutorialspoint.com/differences-between-procedural-and-object-oriented-programming
+- https://www.tutorialspoint.com/difference-between-c-and-python
 
 ________________________________________
 ________________________________________
