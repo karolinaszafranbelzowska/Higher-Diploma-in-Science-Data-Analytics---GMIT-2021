@@ -288,6 +288,11 @@ ________________________________________
 This module was an introduction to various programming paradigms, such as object-oriented programming, functional programming and dataflow
 programming.
 
+The task of this project assignment is to apply two different programming paradigmns to solve a problem. 
+The assignment was implemented in C Procedural Language, Python Procedural and Object-Oriented Programming Language.
+
+**C programming language** is an example of a procedural programming paradigm. Beacuse of its long legacy, the language may be considered old fashioned and also a relatively low-level in terms of memory management. **Python** is a multi-paradigm programming language. The program here has been written to mimic a program written in C. To achieve this, a data type *data class* has been used that resembles the *struct* data type in C. Python supports also the object oriented (OOP) programming paradigm. This paradigm avails of several new concepts, which can be very benefitial in dealing with some programming problems. First of all, there are objects, which combine data and the methods.  
+
 #### Learning Outcomes https://www.gmit.ie/sites/default/files/public/computing/docs/multi-paradigm-programming.pdf
 1. Compare different programming paradigms.
 2. Select an appropriate programming paradigm for a given programming problem.
