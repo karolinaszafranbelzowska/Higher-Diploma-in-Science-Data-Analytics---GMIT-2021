@@ -68,14 +68,17 @@ data. It covered the high-level concepts and the theory.
 1. Go to Github and select Programming and Sripting - Jupyter notebook or Programming and Scripting - VSC.
 2. Click the download button.
 
-#### How to run the code
-
+#### How to run the project (Visual Studio Code)
 1. Make sure you have Python installed. https://www.python.org/downloads/
 2. Download Python using Anaconda and use iPython. https://www.anaconda.com/distribution/
 3. Anaconda allows you to use software such as Visual Studio Code. https://code.visualstudio.com/download
 5. Download Vivual Studio Code, this will assist you in saving annd editing your code.
 6. Install Cmder in Windows to allow you run the code used in this repository. https://cmder.net/
 7. Open a command winder and use ipython.
+
+#### How to run the project (Jupyter notebook)
+The project is also written in Jupyter notebook and it is called "Programming and Scripting.ipynb", where the Data is summarized. 
+How to run the Jupyetr Notebook? - see the bottom of this README file.
 
 #### References:
 - https://www.sololearn.com/; 
@@ -123,13 +126,8 @@ The benchmarking process begins with the creation of arrays of random integer ar
 
 It should be noted that due to the nature of the simple sorting algorithms, the code herein may take quite some time to run as they attempt to sort the larger input sizes.
 
-#### How to run 'Jupyter notebook'
-The Jupyter Notebook App can be launched by clicking on the Jupyter Notebook icon installed by Anaconda in the start menu (Windows) or by typing in a terminal (cmd on Windows):
-'jupyter notebook'
-
-This will launch a new browser window (or a new tab) showing the Notebook Dashboard, a sort of control panel that allows (among other things) to select which notebook to open. Taken from: Jupyter notebook
-
-The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more.
+The project is written in Jupyter notebook and it is called "CTA.ipynb", where the Data is summarized. 
+How to run the Jupyetr Notebook? - see the bottom of this README file.
 
 #### References:
 - https://whatis.techtarget.com/definition/sorting-algorithm
@@ -193,6 +191,7 @@ The project is written using a standard word processor and .pdf format.
 
 ### 4. Data Representation
 ________________________________________
+![](images/dat_rep.jpg)
 
 This repository contains the assignment of the Data Representation module for the Higher Diploma in Data Analytics with Galway-Mayo Institute of Technology.
 This module in which I was investigating and operating the protocols, standards and architectures used in representing data, with a focus on
@@ -267,14 +266,8 @@ The module Fundamentals of Data Analysis is an introduction to the fundamentals 
 - and size of the table.
 
 #### How to run the project
-Make sure you have Python installed. The project is written in Jupyter notebook and it is called "Fundamentals of Data Analysis - tips dataset.ipynb", where the Data is summarized. The project also contains "tipsdata.csv" and "tips.jpg" (file with Photo of TIPS).
-
-#### How to run the Jupyter notebook
-The Jupyter Notebook App can be launched by clicking on the Jupyter Notebook icon installed by Anaconda in the start menu (Windows) or by typing in a terminal (cmd on Windows):
-```
-jupyter notebook
-```
-This will launch a new browser window (or a new tab) showing the Notebook Dashboard, a sort of control panel that allows (among other things) to select which notebook to open. Taken from: Jupyter notebook.
+The project is written in Jupyter notebook and it is called "Fundamentals of Data Analysis - tips dataset.ipynb", where the Data is summarized. The project also contains "tipsdata.csv" and "tips.jpg" (file with Photo of TIPS).
+How to run the Jupyetr Notebook? - see the bottom of this README file.
 
 ### 6. Programming for Data Analysis
 ________________________________________
@@ -303,7 +296,6 @@ This assignment on numpy.random is the part of the Programming for Data Analysis
 
 ### 7. Applied Database
 ________________________________________
-
 ![](images/big_data.jpeg)
 
 This module is a comprehensive primer on databases, with a focus on data analysis. The creation, retrieval, update and deletion of both structured and
@@ -340,21 +332,22 @@ This module was an introduction to machine learning and the statistical aspects 
 This task assessment has been carried out as an assignment of the Machine Learning and Statistic module of the Higher Diploma In Data Analytics at GMIT.
 The assessment was implemented in Jupyter Notebook (tasks.jpynb) using the Python programming language.
 
-The following tasks are included in the Jupyter Notebook.
+The project is written in Jupyter notebook and it is called "MLS tasks.ipynb", where the Data is summarized. 
+How to run the Jupyetr Notebook? - see the bottom of this README file.
 
-Task 1: Square root of 2 function.
+***Task 1:*** Square root of 2 function.
 
 Write a Python function called sqrt2 that calculates and prints to the screen the square root of 2 to 100 decimal places. Your code should not depend on any module from the standard library1 or otherwise. You should research the task first and include references and a description of your algorithm.
 
-Task 2: Chi-squared Test for Indendence.
+***Task 2:*** Chi-squared Test for Indendence.
 
 The Chi-squared test for independence is a statistical hypothesis test like a t-test. It is used to analyse whether two categorical variables are independent. The Wikipedia article gives the table below as an example, stating the Chi-squared value based on it is approximately 24.6. Use scipy.stats to verify this value and calculate the associated p value. You should include a short note with references justifying your analysis in a markdown cell.
 
-Task 3: Microsoft Excel function for Standard Deviation.
+***Task 3:*** Microsoft Excel function for Standard Deviation.
 
 The standard deviation of an array of numbers x is calculated using numpy as np.sqrt(np.sum((x - np.mean(x))**2)/len(x)) . However, Microsoft Excel has two different versions of the standard deviation calculation, STDEV.P and STDEV.S . The STDEV.P function performs the above calculation but in the STDEV.S calculation the division is by len(x)-1 rather than len(x) . Research these Excel functions, writing a note in a Markdown cell about the difference between them. Then use numpy to perform a simulation demonstrating that the STDEV.S calculation is a better estimate for the standard deviation of a population when performed on a sample. Note that part of this task is to figure out the terminology in the previous sentence.
 
-Task 4: k-means clustering of Ronald Fisher’s famous Iris flower data set.
+***Task 4:*** k-means clustering of Ronald Fisher’s famous Iris flower data set.
 
 Apply k-means clustering Ronald Fisher’s famous Iris flower data set using scikit-learn. Explain the k-means clustering code and accuracies achieved. Explain how the model could be used to make a prediction of the iris species.
 
@@ -460,3 +453,18 @@ ________________________________________
 6. Enter the command: git clone followed by the URL of the repository.
 7. The repository will be cloned down to your current working directory.
 8. You will need to navigate to this folder location on the command line in order to run the program.
+
+### How to run Jupyter Notebook
+The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more.
+
+Make sure you have Python installed.
+
+The Jupyter Notebook App can be launched by clicking on the Jupyter Notebook icon installed by Anaconda in the start menu (Windows) or by typing in a terminal (cmd on Windows):
+```
+jupyter notebook
+```
+This will launch a new browser window (or a new tab) showing the Notebook Dashboard, a sort of control panel that allows (among other things) to select which notebook to open. *Taken from: Jupyter notebook.*
+
+
+
+
