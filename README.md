@@ -77,6 +77,24 @@ data. It covered the high-level concepts and the theory.
 6. Install Cmder in Windows to allow you run the code used in this repository. https://cmder.net/
 7. Open a command winder and use ipython.
 
+#### References:
+- https://www.sololearn.com/; 
+- https://docs.python.org/3/library/: 
+- https://www.youtube.com/; 
+- https://stackoverflow.com/; 
+- https://en.wikipedia.org/wiki/Iris_flower_data_set 
+- https://www.geeksforgeeks.org/python-pandas-series/;
+- https://github.com/RitRa/Project2018-iris 
+- https://machinelearningmastery.com/python-machine-learning-mini-course/; 
+- https://help.github.com/en/articles/adding-a-file-to-a-repository; 
+- https://guides.github.com/features/mastering-markdown/; 
+- https://stackoverflow.com/questions/33889310/r-summary-equivalent-in-numpy; 
+- https://www.youtube.com/watch?v=hd1W4CyPX58 
+- http://blog.kaggle.com/2015/04/22/scikit-learn-video-3-machine-learning-first-steps-with-the-iris-dataset/; 
+- https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html; 
+- https://www.kaggle.com/abhishekkrg/python-iris-data-visualization-and-explanation; 
+- http://scipy-lectures.org/packages/statistics/index.html#statistics
+
 
 ### 2. Computational Thinking with Algorithms
 ________________________________________
