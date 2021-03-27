@@ -191,7 +191,7 @@ The project is written using a standard word processor and .pdf format.
 
 ### 4. Data Representation
 ________________________________________
-![](images/dat_rep.jpg)
+![](images/data_rep.jpg)
 
 This repository contains the assignment of the Data Representation module for the Higher Diploma in Data Analytics with Galway-Mayo Institute of Technology.
 This module in which I was investigating and operating the protocols, standards and architectures used in representing data, with a focus on
