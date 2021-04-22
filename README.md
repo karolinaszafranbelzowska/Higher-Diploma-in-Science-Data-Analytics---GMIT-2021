@@ -208,7 +208,7 @@ This repository contains the assignment of the Data Representation module for th
 This module in which I was investigating and operating the protocols, standards and architectures used in representing data, with a focus on
 interacting with data services across the Internet. I also gained practical experience in developing applications that interact with such data.
 
-#### Learning Outcomes: (https://www.gmit.ie/sites/default/files/public/computing/docs/data-representation.pdf)
+#### Learning Outcomes: 
 1. Compare data models and architectures used in applications.
 2. Write software applications that adhere to common standards and protocols.
 3. Explain the basic mechanisms by which application data is transmitted across the internet.
@@ -266,7 +266,7 @@ This repository contains my assessment for the module "Fundamentals of Data Anal
 
 The module Fundamentals of Data Analysis is an introduction to the fundamentals of data analysis, including the acquisition, cleaning and exploration of data sets.
 
-#### Learning Outcomes https://www.gmit.ie/sites/default/files/public/computing/docs/fundamentals-data-analysis.pdf
+#### Learning Outcomes 
 1. Source and investigate sets of data.
 2. Programmatically explore and visualise data.
 3. Apply basic mathematical data analysis techniques to data sets.
@@ -293,7 +293,7 @@ This module develops programming skills towards the effective use of data analys
 I have learnt how to select efficient data structures for numerical programming, and to use these data structures to transform
 data into useful and actionable information.
 
-#### Learning Outcomes https://www.gmit.ie/sites/default/files/public/computing/docs/programming-data-analysis.pdf
+#### Learning Outcomes 
 
 1. Perform exploratory analysis on data.
 2. Programmatically create plots and other visual outputs from data.
@@ -348,7 +348,7 @@ ________________________________________
 This module is a comprehensive primer on databases, with a focus on data analysis. The creation, retrieval, update and deletion of both structured and
 unstructured data will be covered for a number of modern database systems and architectures.
 
-### Learning Outcomes https://www.gmit.ie/sites/default/files/public/computing/docs/applied-databases.pdf
+### Learning Outcomes 
 1. Create, retrieve, update and delete data in a variety of modern database management systems.
 2. Determine the correct data to select from a database in order to perform a given data analysis.
 3. Select an appropriate interface to access a database for a given application.
@@ -359,15 +359,15 @@ unstructured data will be covered for a number of modern database systems and ar
 - https://www.geeksforgeeks.org/difference-between-primary-key-and-foreign-key/ (02/08/2020)
 - https://www.w3schools.com/sql/sql_foreignkey.asp (02/08/2020)
 - https://en.wikipedia.org/wiki/Third_normal_form (02/08/2020)
-- 
-***GitHub Repositories"***
+ 
+GitHub Repositories:
 - https://github.com/NiamhOL?tab=repositories
 - https://github.com/g00387822
 - https://github.com/ClodaghMurphy?tab=repositories
 - https://github.com/angela1C?tab=repositories
 - https://github.com/johndunne2019?tab=repositories
-- 
-***Other Web pages:***
+
+Other Web pages:
 - https://www.datacamp.com/community/tutorials/mysql-python
 - https://dev.mysql.com/doc/connector-python/en/connector-python-example-connecting.html
 - https://pypi.org/project/PyMySQL/
@@ -385,7 +385,7 @@ This module introduced to modern web application and network application develop
 programming and scripting languages. The focus was on building light-weight network services, particularly web-based services, and integrating
 those services with modern front-end frameworks.
 
-#### Learning Outcomes https://www.gmit.ie/sites/default/files/public/computing/docs/web-application-development.pdf
+#### Learning Outcomes 
 1. Describe the common architectures of web applications.
 2. Create scalable web services using modern architectural patterns.
 3. Create a web application using a server-side framework.
@@ -448,7 +448,7 @@ Apply k-means clustering Ronald Fisher’s famous Iris flower data set using sci
 
 This project creates a web service that uses machine learning to make predictions based on the dataset powerproduction. The goal is to produce a model that accurately predicts wind speed values. The web service will respond with predicted power values based on speed values sent as HTTP requests. The assignment was implemented in Python Language. 
 
-#### Learning Outcomes https://www.gmit.ie/sites/default/files/public/computing/docs/machine-learning-statistics.pdf
+#### Learning Outcomes 
 1. Describe the stochastic nature of real-world measurements.
 2. Select an appropriate mathematical model of a real-world problem.
 3. Select an appropriate cost function for a given machine learning task.
@@ -498,7 +498,7 @@ The assignment was implemented in C Procedural Language, Python Procedural and O
 
 **C programming language** is an example of a procedural programming paradigm. Beacuse of its long legacy, the language may be considered old fashioned and also a relatively low-level in terms of memory management. **Python** is a multi-paradigm programming language. The program here has been written to mimic a program written in C. To achieve this, a data type *data class* has been used that resembles the *struct* data type in C. Python supports also **the object oriented (OOP) programming** paradigm. This paradigm avails of several new concepts, which can be very benefitial in dealing with some programming problems. First of all, there are objects, which combine data and the methods.  
 
-#### Learning Outcomes https://www.gmit.ie/sites/default/files/public/computing/docs/multi-paradigm-programming.pdf
+#### Learning Outcomes 
 1. Compare different programming paradigms.
 2. Select an appropriate programming paradigm for a given programming problem.
 3. Write programs using a variety of different programming paradigms.
