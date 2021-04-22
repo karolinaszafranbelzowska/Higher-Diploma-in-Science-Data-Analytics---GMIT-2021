@@ -76,8 +76,7 @@ data. It covered the high-level concepts and the theory.
 7. Open a command winder and use ipython.
 
 #### How to run the project (Jupyter notebook)
-The project is also written in Jupyter notebook and it is called "Programming and Scripting.ipynb", where the Data is summarized. 
-How to run the Jupyetr Notebook? - see the bottom of this README file.
+The project is also written in Jupyter notebook and it is called "Programming and Scripting.ipynb", where the Data is summarized. How to run the Jupyetr Notebook? - see the bottom of this README file.
 
 #### References:
 - https://www.sololearn.com/; 
