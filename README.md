@@ -215,7 +215,6 @@ interacting with data services across the Internet. I also gained practical expe
 4. Design and utilise application programming interfaces for interacting with data sources.
 
 #### The repository contains:
-- README.md file
 - .gitignore
 - requirements.txt - stores required packages
 - mySQL database
