@@ -391,6 +391,11 @@ those services with modern front-end frameworks.
 3. Create a web application using a server-side framework.
 4. Manage the development of a web application.
 
+For this assignment, I created a business website that employs the principles of HTML5, CSS and JavaScript. 
+The website supplies the freshest fruits and vegetables available on the Irish market to both wholesale and retail customers.
+Web pages was created and modified by using Notepad++ (PC). View the HTML Page in the browser you like/use (Run => Launch in Firefox/Chrome/IE/Safari)
+
+			
 #### References:
 Webpages:
 - https://www.youtube.com/watch?v=2S1AbEWX85o
