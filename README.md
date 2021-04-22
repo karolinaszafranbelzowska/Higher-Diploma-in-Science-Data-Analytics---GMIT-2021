@@ -124,6 +124,7 @@ The benchmarking process begins with the creation of arrays of random integer ar
 
 It should be noted that due to the nature of the simple sorting algorithms, the code herein may take quite some time to run as they attempt to sort the larger input sizes.
 
+#### How to run the project (Jupyter notebook)
 The project is written in Jupyter notebook and it is called "CTA.ipynb", where the Data is summarized. 
 How to run the Jupyetr Notebook? - see the bottom of this README file.
 
