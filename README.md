@@ -302,7 +302,10 @@ data into useful and actionable information.
 5. Employ appropriate data structures when programming for data-intensive applications.
 6. Model real-world, data-intensive problems as computing problems.
 
-This assignment on numpy.random is the part of the Programming for Data Analysis 2019 module at Galway-Mayo Institute of Technology. It contains the numpy.random package in Python. In this assignment I tried to explain in details the use of the numpy.random package in Python using explanations and examples. I created a jupyter notebook and use this to show examples of numpy.random and its uses.
+This assignment on numpy.random is the part of the Programming for Data Analysis 2019 module at Galway-Mayo Institute of Technology. It contains the numpy.random package in Python. In this assignment I tried to explain in details the use of the numpy.random package in Python using explanations and examples. 
+
+#### How to run the project (Jupyter notebook)
+The project is written in Jupyter notebook and it is called "numpy.random.ipynb", where the Data is summarized. How to run the Jupyetr Notebook? - see the bottom of this README file.
 
 #### There are 4 main sections in this assignment
 1. Explain the overall use of the numpy.random package.
