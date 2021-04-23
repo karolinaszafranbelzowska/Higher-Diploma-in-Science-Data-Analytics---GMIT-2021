@@ -4,13 +4,9 @@
 ### Karolina Szafran-Belzowska, G00376368
 
 
-A conversion course for graduates of level 8 programmes in disciplines other than computing, the aim of this programme is to provide students with a broad knowledge of computing, 
-with a specialisation in data analytics. 
-This will enable students to apply data analysis techniques to the topics in their original degree, while also providing a foundation on which they can develop their skills in 
-the more traditional areas of computing. 
-The course covers such skills as automating manual spreadsheet-oriented data analysis processes, converting large data sets into actionable information, and creating web-based 
-dashboards for visualising data. 
-Level 8 graduates from disciplines such as business and finance are particularly suited to this course, as are those from life and physical sciences.
+Higher Diploma in Data Analytics is a conversion course for non-IT graduates of the 8th level, which aims to provide students with broad IT knowledge with a specialization in data analytics.
+Students applied data analysis techniques to the topics to their original degree while providing a foundation on which they could develop their skills in the more traditional areas of computer science.
+The course covered skills such as automating manual spreadsheet-oriented data analysis processes, turning large datasets into actionable information, and creating web-based dashboards for data visualization.
 
 
 ### Modules
