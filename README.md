@@ -4,13 +4,9 @@
 ### Karolina Szafran-Belzowska, G00376368
 
 
-A conversion course for graduates of level 8 programmes in disciplines other than computing, the aim of this programme is to provide students with a broad knowledge of computing, 
-with a specialisation in data analytics. 
-This will enable students to apply data analysis techniques to the topics in their original degree, while also providing a foundation on which they can develop their skills in 
-the more traditional areas of computing. 
-The course covers such skills as automating manual spreadsheet-oriented data analysis processes, converting large data sets into actionable information, and creating web-based 
-dashboards for visualising data. 
-Level 8 graduates from disciplines such as business and finance are particularly suited to this course, as are those from life and physical sciences.
+Higher Diploma in Data Analytics is a conversion course for non-IT graduates of the 8th level, which aims to provide students with broad IT knowledge with a specialization in data analytics.
+Students applied data analysis techniques to the topics to their original degree while providing a foundation on which they could develop their skills in the more traditional areas of computer science.
+The course covered skills such as automating manual spreadsheet-oriented data analysis processes, turning large datasets into actionable information, and creating web-based dashboards for data visualization.
 
 
 ### Modules
@@ -159,11 +155,13 @@ How to run the Jupyetr Notebook? - see the bottom of this README file.
   https://runestone.academy/runestone/books/published/pythonds/SortSearch/TheSelectionSort.html
   https://runestone.academy/runestone/books/published/pythonds/SortSearch/TheMergeSort.html
   https://runestone.academy/runestone/books/published/pythonds/SortSearch/TheInsertionSort.html
+  
 **Videos:**
 - https://www.youtube.com/watch?v=AthG28-_RuM&t=445s
 - https://www.youtube.com/watch?v=AgtzMtrzhzs
 - https://www.youtube.com/watch?v=JxTghISBmI8
 - https://www.youtube.com/watch?v=3aTfQvs-_hA
+
 **Github Repositories:**
 - https://github.com/jennifer-ryan/benchmarking-sorting-algorithms
 - https://github.com/andkoc001/CTA_sorting_project
@@ -563,6 +561,14 @@ jupyter notebook
 ```
 This will launch a new browser window (or a new tab) showing the Notebook Dashboard, a sort of control panel that allows (among other things) to select which notebook to open. *Taken from: Jupyter notebook.*
 
+### How to run Visual Studio Code
+1. Make sure you have Python installed. https://www.python.org/downloads/
+2. Download Python using Anaconda and use iPython. https://www.anaconda.com/distribution/
+3. Anaconda allows you to use software such as Visual Studio Code.
+    https://code.visualstudio.com/download
+5. Download Visual Studio Code, this will assist you in saving and editing your code.
+6. Install Cmder in Windows to allow you run the code used in this repository. https://cmder.net/
+7. Open a command winder and use ipython.
 
 
 
