@@ -155,11 +155,13 @@ How to run the Jupyetr Notebook? - see the bottom of this README file.
   https://runestone.academy/runestone/books/published/pythonds/SortSearch/TheSelectionSort.html
   https://runestone.academy/runestone/books/published/pythonds/SortSearch/TheMergeSort.html
   https://runestone.academy/runestone/books/published/pythonds/SortSearch/TheInsertionSort.html
+  
 **Videos:**
 - https://www.youtube.com/watch?v=AthG28-_RuM&t=445s
 - https://www.youtube.com/watch?v=AgtzMtrzhzs
 - https://www.youtube.com/watch?v=JxTghISBmI8
 - https://www.youtube.com/watch?v=3aTfQvs-_hA
+
 **Github Repositories:**
 - https://github.com/jennifer-ryan/benchmarking-sorting-algorithms
 - https://github.com/andkoc001/CTA_sorting_project
