@@ -561,6 +561,14 @@ jupyter notebook
 ```
 This will launch a new browser window (or a new tab) showing the Notebook Dashboard, a sort of control panel that allows (among other things) to select which notebook to open. *Taken from: Jupyter notebook.*
 
+### How to run Visual Studio Code
+1. Make sure you have Python installed. https://www.python.org/downloads/
+2. Download Python using Anaconda and use iPython. https://www.anaconda.com/distribution/
+3. Anaconda allows you to use software such as Visual Studio Code.
+    https://code.visualstudio.com/download
+5. Download Visual Studio Code, this will assist you in saving and editing your code.
+6. Install Cmder in Windows to allow you run the code used in this repository. https://cmder.net/
+7. Open a command winder and use ipython.
 
 
 
