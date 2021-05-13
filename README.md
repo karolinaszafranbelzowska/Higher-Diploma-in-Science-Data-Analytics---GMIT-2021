@@ -63,16 +63,16 @@ data. It covered the high-level concepts and the theory.
 1. Go to Github and select Programming and Sripting - Jupyter notebook or Programming and Scripting - VSC.
 2. Click the download button.
 
-#### How to run the project (Visual Studio Code)
-1. Make sure you have Python installed. https://www.python.org/downloads/
-2. Download Python using Anaconda and use iPython. https://www.anaconda.com/distribution/
-3. Anaconda allows you to use software such as Visual Studio Code. https://code.visualstudio.com/download
-5. Download Vivual Studio Code, this will assist you in saving annd editing your code.
-6. Install Cmder in Windows to allow you run the code used in this repository. https://cmder.net/
-7. Open a command winder and use ipython.
+### Programming and scripting – Problem set
+The project is written in Jupyter notebook and it is called " Programming and Scripting.ipynb ", where the Data is summarized. 
+How to run the Jupyetr Notebook? - see the bottom of this file.
+The project is also available in Visual Studio Code.
+How to run the project in Visual Studio Code? - see the bottom of this file.
+### Programming and scripting – Project
+The project concerns the well-known Fisher's Iris dataset. It involves examining a dataset and then writing documentation and code in Python programming language.
+The project is broken down into several smaller tasks, which are easier to solve.
+The project is written in Visual Studio Code.
 
-#### How to run the project (Jupyter notebook)
-The project is also written in Jupyter notebook and it is called "Programming and Scripting.ipynb", where the Data is summarized. How to run the Jupyetr Notebook? - see the bottom of this README file.
 
 #### References:
 - https://www.sololearn.com/; 
@@ -560,6 +560,15 @@ The Jupyter Notebook App can be launched by clicking on the Jupyter Notebook ico
 jupyter notebook
 ```
 This will launch a new browser window (or a new tab) showing the Notebook Dashboard, a sort of control panel that allows (among other things) to select which notebook to open. *Taken from: Jupyter notebook.*
+
+### How to run Visual Studio Code
+1. Make sure you have Python installed. https://www.python.org/downloads/
+2. Download Python using Anaconda and use iPython. https://www.anaconda.com/distribution/
+3. Anaconda allows you to use software such as Visual Studio Code.
+    https://code.visualstudio.com/download
+5. Download Visual Studio Code, this will assist you in saving and editing your code.
+6. Install Cmder in Windows to allow you run the code used in this repository. https://cmder.net/
+7. Open a command winder and use ipython.
 
 ### How to run Visual Studio Code
 1. Make sure you have Python installed. https://www.python.org/downloads/
